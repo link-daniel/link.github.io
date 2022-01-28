@@ -61,6 +61,8 @@ Turns thoughts into action and unlocks the keys to transform your ideas into rea
 
 [Watch Your Thoughts](/watch-thoughts)
 
+[Think For Yourself](/think-yourself)
+
 [Simplify](/simplify)
 
 [Challenge Yourself](/challenge-self)
