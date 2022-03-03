@@ -21,18 +21,12 @@ Develops more structured ways of thinking and learn how to think about thinking.
 ACTION. 
 Turns thoughts into action and unlocks the keys to transform your ideas into reality.
 
-I have open sourced the book that means it is available for free to the public.
+**I have open sourced the book that means it is available for free to the public.**
 
-### Available versions for download:
-
+### E-Reader:
 [Epub - Apple devices](https://github.com/linknd/link.github.io/raw/main/Rule%20Over%20Self%20-%20Link%20Daniel.epub)
-
 [Mobi - Amazon Kindle](https://github.com/linknd/link.github.io/raw/main/Rule%20Over%20Self%20-%20Link%20Daniel.mobi) 
-
-### Ebook for purchase 
-
 [Amazon Store](https://www.amazon.com/gp/product/B09HN51TQW/ref=dbs_a_def_rwt_bibl_vppi_i0)
-
 
 ### Web Version:
 
