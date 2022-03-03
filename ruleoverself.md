@@ -25,7 +25,9 @@ Turns thoughts into action and unlocks the keys to transform your ideas into rea
 
 ### E-Reader:
 [Epub - Apple devices](https://github.com/linknd/link.github.io/raw/main/Rule%20Over%20Self%20-%20Link%20Daniel.epub)
+
 [Mobi - Amazon Kindle](https://github.com/linknd/link.github.io/raw/main/Rule%20Over%20Self%20-%20Link%20Daniel.mobi) 
+
 [Amazon Store](https://www.amazon.com/gp/product/B09HN51TQW/ref=dbs_a_def_rwt_bibl_vppi_i0)
 
 ### Web Version:
