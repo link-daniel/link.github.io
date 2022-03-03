@@ -21,6 +21,13 @@ Develops more structured ways of thinking and learn how to think about thinking.
 ACTION. 
 Turns thoughts into action and unlocks the keys to transform your ideas into reality.
 
+Available versions:
+
+Epub - Apple devices (e.g. iPad)
+Mobi - Amazon Kindle 
+Web - Articles below
+[Amazon](https://www.amazon.com/gp/product/B09HN51TQW/ref=dbs_a_def_rwt_bibl_vppi_i0)
+
 [Prologue](/prologue)
 
 [Introduction](/introduction)
@@ -120,6 +127,6 @@ Turns thoughts into action and unlocks the keys to transform your ideas into rea
 
 ### More information
 
-[https://amazon.com/author/link](https://amazon.com/author/link)
+[https://amazon.com/author/linkdaniel](https://amazon.com/author/linkdaniel)
 
-[Buy on Amazon](https://www.amazon.com/Rule-Over-Self-Link-ebook/dp/B07QBM8S7D/ref=sr_1_7?keywords=rule+over+self+link&qid=1557269768&s=books&sr=1-7-spell)
+
