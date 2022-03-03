@@ -24,9 +24,13 @@ Turns thoughts into action and unlocks the keys to transform your ideas into rea
 Available versions:
 
 [Epub - Apple devices (e.g. iPad)]()
+
 [Mobi - Amazon Kindle]() 
-Web - Articles below
+
 [Amazon Store](https://www.amazon.com/gp/product/B09HN51TQW/ref=dbs_a_def_rwt_bibl_vppi_i0)
+
+Web - Articles below
+
 
 [Prologue](/prologue)
 
