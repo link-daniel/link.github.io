@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Link"
+title: "Link Daniel"
 categories: 
 author:
 - Link Daniel
 ---
 
-## A new life
+## Link Daniel
 
-Hello world
