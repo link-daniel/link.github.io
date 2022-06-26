@@ -10,7 +10,7 @@ layout: home
 
 [On Liberty](https://link.com.de/liberty)
 <br>
-Book on how break mental loops and free yourself.
+Book on meditations to break mental loops and free yourself.
 
 [On Dreaming](https://link.com.de/dream)
 <br>
