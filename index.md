@@ -16,6 +16,10 @@ Book on meditations to break mental loops and free yourself
 <br>
 Book on lucid dreaming and dream yoga
 
+[Notes on culture, religion and technology](https://link.com.de/lincolnthiel)
+<br>
+Thoughts from Peter Thiel on culture, religion and technology
+
 [On virtual dreams](https://link.com.de/virtualdreams)
 <br>
 Essay on virtual dreams
