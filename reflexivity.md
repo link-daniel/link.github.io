@@ -9,16 +9,25 @@ An Alternative Theory of How Markets Work
 This was my undergraduate economics thesis on reflexivity in financial markets, inspired by George Soros’s theory of reflexivity. I thought I’d share it, in case anyone would be interested to read parts of it, or use it as a foundation for their own work. Please attribute where appropriate.
 
 ## Content
-Introduction\
-What is a bubble?\
-Why has nobody noticed that a crisis was under way?\
-Efficiency in Financial Markets\
-The Theory of Reflexivity\
-Soros in Perspective\
-The Anatomy of a Bubble\
-Results\
-Conclusion\
-Bibliography\
+Introduction
+
+What is a bubble?
+
+Why has nobody noticed that a crisis was under way?
+
+Efficiency in Financial Markets
+
+The Theory of Reflexivity
+
+Soros in Perspective
+
+The Anatomy of a Bubble
+
+Results
+
+Conclusion
+
+Bibliography
 
 ## Introduction
 The subprime mortgage crisis that led to the global meltdown of the financial system has potentially discredited the current paradigm of economic theory. The Efficient Market Hypothesis and Rational Expectations Theory are still the predominant way to understand the dynamics of financial markets, but the crisis has given rise to a need to look for alternative ways of how financial markets work.
@@ -112,7 +121,7 @@ Soros illustrates his theory of reflexivity and applies it to the recent financi
 
 For example, we can roughly illustrate the reflexive effects of the credit process. As the availability of credit widens, higher profits will yield higher asset prices, which will increase the amounts that are borrowed by investors and that money will find its way eventually into the financial markets. (de Glossop 2012) Another example of the reflexive process: “as borrowing stimulates economic activity, higher profits and asset prices also raise the value of collateral.” (Glossop 2012, 490) Glossop (2012) argues that borrowers’ creditworthiness can be positively affected by more lending, which may lead the borrowers to borrow even more. This in a nutshell represents Soros’s theory of reflexivity as it applies to financial markets.
 
-Soros in Perspective
+### Soros in Perspective
 “To say something has failed you have to have something to replace it, and so far we don’t have a new paradigm to replace efficient markets.” writes Scholes (2009), of the famous Black-Scholes model. Eichengreen claims that Soros’s work is not adequately grounded in scholarly literature. Soros acknowledges that his theory does not qualify as scientific because it does not provide deterministic explanations and predictions. However, this already constitutes Soros’s criticism on the current paradigm of economic theory that economics cannot make predictions. It is for the simple reason that within a social science we are dealing with human beings, instead of objects that are fixed and contain predictable variables in hard sciences such as physics.
 
 Despite the recent financial crisis, Soros’s theory of reflexivity is still not widely known. Most of the scholarly criticism that exists comes in the form of book reviews, and do not critique Soros’s theory in its entirety. Many critics use Soros’s son to discredit his theory:
@@ -182,7 +191,7 @@ What is also characteristic of the fifth stage is a phase of irrational exuberan
 
 In what is known as the twilight period, or the sixth stage, participants slowly realize that expectations are too high, which brings a period of stagnation forth. This happened during the dot-com bubble when the Fed reversed their course of action by increasing the Fed Funds rate. According to Calandro, it was just a matter of time until the market would reverse given the change in policy of the Fed. The seventh stage, the climax or reversal, needs an external shock that reversed the course of the stock price. The market topped in March of 2000, and Enron and its fraudulent accounting practices, as Calandro remarks, marks one of the inflection point from which the market turned downwards. Eventually stock prices start to decline, Soros observes, and a financial crisis ensues, which constitutes the eighth and final stage. This occurred when the NASDAQ hit its all-time high in March.
 
-Results
+### Results
 
 Ever since the global financial crisis that began with the subprime mortgage crisis in the United States in the fall of 2007, the current paradigm of economic theory has — at least partially — been discredited. After writing the thesis, I may acknowledge that it has not been fully discredited, but enough to warrant alternative theories to shed some light on explaining the dynamics of financial markets, and in particular financial bubbles. Soros (2009b) admits that despite the fact that his model has received increased attention, it still lacks serious attention from the economics profession. He attributes this to three reasons: First, his opponents claim that Soros is merely stating the obvious in that market prices reflect the participants’ biases. Soros, however, states that that is misunderstanding his theory. Second, Soros claims that his opponents accuse him that his theory is already incorporated within other existing models. This may be true to a certain degree as we have seen with the existing models of Brunnermeier and Minsky. As in regards to the case study, it has been very difficult to draw conclusive results not only because only one financial bubble, i.e. dot-com bubble, was being used but also on the account of the match that exists between the models of Brunnermeier and Minsky and Soros’s model.
 
