@@ -14,7 +14,7 @@ Book on how break mental loops and free yourself.
 
 [On Dreaming](https://link.com.de/dream)
 <br>
-Book _draft_ on lucid dreaming and dream yoga.
+Book on lucid dreaming and dream yoga.
 
 [Rule Over Self](https://link.com.de/ruleoverself)
 <br>
