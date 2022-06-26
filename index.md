@@ -8,9 +8,9 @@
 layout: home
 ---
 
-[Ultimate Dream Guide](https://link.com.de/dream)
+[The Dreamer](https://link.com.de/dream)
 <br>
-Very expansive list on lucid dreaming & dream yoga
+Book on lucid dreaming & dream yoga and how to use it to free yourself
 
 [Rule Over Self Book](https://link.com.de/ruleoverself)
 <br>
