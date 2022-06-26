@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Liberty"
+title:  "Liberty"
 categories: 
 tags: 
 ---
