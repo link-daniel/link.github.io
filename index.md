@@ -20,6 +20,11 @@ Book on lucid dreaming and dream yoga
 <br>
 Essay on virtual dreams
 
+[Network: A Virtual Dream And Brain Computer Protocol](https://link.com.de/network)
+<br>
+Network Whitepaper
+
+
 [The Future is Networked](https://link.com.de/futurenetworked)
 <br>
 Essay on the crypto-economic paradigm
