@@ -20,7 +20,7 @@ Book on lucid dreaming and dream yoga
 <br>
 Essay on virtual dreams
 
-[Network: A Virtual Dream And Brain Computer Protocol](https://link.com.de/network)
+[A Virtual Dream And Brain Computer Protocol](https://link.com.de/network)
 <br>
 Network Whitepaper
 
