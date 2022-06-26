@@ -10,4 +10,4 @@ My primary purpose is building a brain computer network to create virtual dreams
 <br>
 From my [website](https://linkdaniel.org) you can direct to other parts of my library.\
 <br>
-On this [About.Me](https://about.me/linkdaniel) page you can find all the ways to connect with me on social media. I'm on [Twitter](https://twitter.com/linkdniel), [Telegram](https://t.me/linkdaniel) and [Instagram](https://instagram.com/linkdniel) the most. You can also reach me by emailing link at linkdaniel.org.
+On this [About.Me](https://about.me/linkdaniel) page you can find all the ways to connect with me on social media. I'm on [Twitter](https://twitter.com/linkdniel), [Telegram](https://t.me/linkdaniel) and [Instagram](https://instagram.com/linkdniel) the most. You can also reach me by emailing link at [linkdaniel.org](https://linkdaniel.org).
