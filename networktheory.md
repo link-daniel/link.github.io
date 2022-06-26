@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Future Is Networked"
+title:  "Network Theory"
 categories: 
 tags: 
 date: April 2018
@@ -30,7 +30,7 @@ With so much information and noise in the space, I think it can be very difficul
 
 Anyway, here are a few key insights that we should bear in mind as we go deeper into the networked future that crypto-economics is enabling.
 
-A self-sovereign asset class
+### A self-sovereign asset class
 The owner of the asset is the owner of the asset. The private keys to the virtual ledger in the cloud represent real ownership in the network. Blockchain-based assets are defined by software. Consensus and legal agreements by software. The tokens of these networks are global and liquid. They are defined by scarcity. As the value of the network increases, the value of the tokens increases. The networks are open-source and the tokens are cryptographically secured.
 
 The paradigm towards open financial protocols will continue to accelerate
@@ -42,10 +42,10 @@ Hierarchies, companies and contracts stand to be disrupted. The disintermediatio
 The printing press effect
 Crypto-economics will give rise to a multi-polar world in which alternative economic entities and governments compete. Innovation is no longer the monopoly of one region or country.
 
-What will give crypto legitimacy?
+### What will give crypto legitimacy?
 In a recent conversation at the Economic Club of New York, Peter Thiel said that as a store of value Bitcoin still has ways to go. Essentially he legitimized it as a digital gold alternative. The gold market is $8 trillion, while the entire crypto market is about ~ $0.3 trillion, up 10x from where it was a year ago. It shares some of the same characteristics. Just like gold, bitcoin is not backed by any government. It is not sure what the intrinsic value is. It may well be a bubble, and most bubble are unstable and end badly. He said that even if there is a bubble type of element that doesn’t rebut the argument that Bitcoin isn’t valuable. He did compare crypto to the IPO mania and there are a lot of similarities. But he also said that it still strikes him as deeply contrarian. Probability weighted it is a good investment. The point of all of this paragraph is that we ought to think what gives this revolution its legitimacy. In some ways crypto does not need to get outside legitimacy because it is in math we trust but it has been interesting to watch how certain sources that provide legitimacy to crypto have very positive effects to the industry, like the Ethereum Enterprise Alliance was an early catalyst to the ecosystem last year.
 
-The coming clash of networks vs. hierarchies
+### The coming clash of networks vs. hierarchies
 “Financial markets are like the mirror of mankind, revealing every hour of every working day the way we value ourselves and the resources of the world around us.”
 — Niall Ferguson
 
@@ -53,15 +53,17 @@ It is appropriate that in this discussion of a networked future that I include s
 
 The printing revolution unleashed wave after wave of revolution. The question is: are open financial protocols going to a similar effect? As Ferguson asks, “will those new networks liberate us from the shackles of the administrative state as the revolutionary networks in the past freed our ancestors from the shackles of spiritual and temporal hierarchy?”
 
-His 7 insights of network theory:
+#### His 7 insights of network theory:
 
-No man is an island: Individuals can be understood in terms of the relationship to other nodes. Defined by the number of relationships, and the likelihood of her being a bridge between other nodes. To what extent can you be a network bridge? Connectors are the new leaders.
+- No man is an island: Individuals can be understood in terms of the relationship to other nodes. Defined by the number of relationships, and the likelihood of her being a bridge between other nodes. To what extent can you be a network bridge? Connectors are the new leaders.
 Birds of a feather flock together: what is the nature of the network linkages? What gets exchanged within the network? What kind of network is it? What is the relationship between the different nodes?
-Weak ties are strong: How dense is a network? How connected it is to other clusters?
-Structure determines virality: Ideas go viral because of the structural features of the network. Networks are more likely to do this than hierarchies.
-Networks never sleep: Dynamic networks are prone to constant changes. As Ferguson explains, they are “complex adaptive systems with emergent properties.” Small changes can have big consequences.
-Networks network: Interaction within networks can lead to innovation and invention.
-The rich get richer: Most social networks are profoundly inegalitarian.
+
+- Weak ties are strong: How dense is a network? How connected it is to other clusters?
+- Structure determines virality: Ideas go viral because of the structural features of the network. Networks are more likely to do this than hierarchies.
+- Networks never sleep: Dynamic networks are prone to constant changes. As Ferguson explains, they are “complex adaptive systems with emergent properties.” Small changes can have big consequences.
+- Networks network: Interaction within networks can lead to innovation and invention.
+- The rich get richer: Most social networks are profoundly inegalitarian.
+
 Ferguson’s conclusion: “Expect continued network-driven disruption of hierarchies that cannot reform themselves, but also the potential for some kind of restoration of hierarchical order when it becomes clear that the networks alone cannot avert a decent into anarchy.”
 
 The sharing of novel ideas in the 18th century within networks of scholars created tremendous progress. The same is happening now in crypto communities all over the world. Having seen this first-hand, there exists a global hidden network of crypto developers and investors that are not so secretly building an alternative economic reality. Whether it is Devcon last year, or Deconomy now, the crypto elite is wandering around like a circus from one summit to the next, from hidden gatherings like the Satoshi Roundtable to more public conventions.
@@ -72,7 +74,7 @@ A word of caution on networks from co-founder of Twitter Ev Williams, “The les
 
 The one lesson I want to leave you with is never forget history. We cannot change the past, but knowing the past can help instruct the future. As Winston Churchill wrote “the longer you can look back, the farther you can look forward.”
 
-Markets are inherently reflexive
+### Markets are inherently reflexive
 Obviously Soros is better at explaining the theory of reflexivity and how it applies to financial markets. This gets quite theoretical so feel free to skip ahead. Here is a short excerpt from Soros himself:
 
 I can state the core idea in two relatively simple propositions. One is that in situations that have thinking participants, the participants’ view of the world is always partial and distorted. That is the principle of fallibility. The other is that these distorted views can influence the situation to which they relate because false views lead to inappropriate actions. That is the principle of reflexivity. For instance, treating drug addicts as criminals creates criminal behavior. It misconstrues the problem and interferes with the proper treatment of addicts. As another example, declaring that government is bad tends to make for bad government.
@@ -91,10 +93,9 @@ In the real world, the participants’ thinking finds expression not only in sta
 
 If you care to read my take on it, I wrote my undergraduate thesis on Soros’s theory of reflexivity. That was a long time ago, so don’t judge me. Alas, I did not do Soros justice, because years later when former Soros CIO and former CEO forwarded my thesis to Soros, I did not get a response back haha
 
-The anatomy of a bubble or boom-bust processes
+### The anatomy of a bubble or boom-bust processes
 “Men, it has been well said, think in herds; it will be seen that they go mad in herds, while they only recover their senses slowly, and one by one.”
 — Gustave Le Bon
-
 
 Again, better to be understood in Soros’s own words:
 
@@ -104,7 +105,7 @@ I have developed a theory about boom-bust processes, or bubbles, along these lin
 
 Typically, bubbles have an asymmetric shape. The boom is long and drawn out: slow to start, it accelerates gradually until it flattens out during the twilight period. The bust is short and steep because it is reinforced by the forced liquidation of unsound positions. Disillusionment turns into panic, reaching its climax in a financial crisis.
 
-Skin in the game
+### Skin in the game
 Historically society was run by risk-takers. Prominent ones took more risks than ordinary ones. Given the many pump and dumps, crypto needs more skin in the game inside the system. We need to build economic systems in which risk-taking is not socialized away to certain classes of people.
 
 The 2008 crisis should serve as a lesson learned:
@@ -113,14 +114,14 @@ For instance, bank blowups came in 2008 because of the accumulation of hidden an
 
 This is a topic worthy its own essay. For now, will end with Taleb’s words, “Well, we have no choice but to decentralize or, more politely, to localize; to have fewer of these immune decision makers.”
 
-The end of Silicon Valley
+### The end of Silicon Valley
 Obviously a bit dramatic as a subtitle, but the core idea persists: in a decentralized future, centralized hubs of innovation should cease to exist. That doesn’t mean that Silicon Valley is in decline, just as the United States may be in decline, but it is all relative. Silicon Valley will remain the leader in global innovation for years to come, but just as Silicon Valley was blind to crypto, it will be blind to other things, problems that it may not see the need to solve when there is real need abroad in developing parts of the world.
 
 Where will innovation in the future come from? It is unlikely to come from just one geographical center like Silicon Valley. The future is decentralized and as a consequence hubs around the world are already challenging Silicon Valley in its supremacy as the sole place where the future is happening.
 
 Most people did not predict the crypto rise the way it happened. It was missed in New York and it also was missed here in Silicon Valley. Crypto naturally emerged in a distributed way. For example, many bleeding edge projects are based outside the United States. Ethereum and Dfinity are based in Zug, Switzerland.
 
-A New Narrative
+### A New Narrative
 Going back to the Thiel conversation at the Economic Club, he also stressed the importance of a good story and the necessary charisma for the technology to truly impact the world. You want to have a future where people are inspired and it is not just about money, he said, I think. And crypto Thiel remarks qualifies where these young people do have this vision of a very different world that they are trying to build. AI for example is not as charismatic. This key. And this brings me to my last point.
 
 If there is one thing that I have learned being part of some of the best networks in the world it is that the ecosystem pushes you to grow as an individual beyond what you could maybe imagine for yourself. This is what the best networks and communities can do for you. And that is something special to care about.
