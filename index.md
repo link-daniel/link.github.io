@@ -19,5 +19,8 @@ Book on lucid dreaming and dream yoga.
 [Rule Over Self](https://link.com.de/ruleoverself)
 <br>
 Book with mental models to become a better learner, thinker and doer.
+[Reflexivity in Financial Bubbles](https://link.com.de/reflexivity)
+<br>
+An Alternative Theory of How Markets Work
 
 
