@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reflexivity in Financial Markets: An Alternative Theory of How Markets Work
+title: Reflexivity in Financial Markets - An Alternative Theory of How Markets Work
 permalink: /reflexivity/
 ---
 
