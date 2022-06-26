@@ -12,7 +12,7 @@ layout: home
 <br>
 Book on lucid dreaming & dream yoga and how to use it to free yourself
 
-[Rule Over Self Book](https://link.com.de/ruleoverself)
+[Rule Over Self](https://link.com.de/ruleoverself)
 <br>
 Book with mental models to become a better learner, thinker and doer
 
