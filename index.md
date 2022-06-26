@@ -28,7 +28,6 @@ Essay on virtual dreams
 <br>
 Network Whitepaper
 
-
 [The Future is Networked](https://link.com.de/futurenetworked)
 <br>
 Essay on the crypto-economic paradigm
@@ -41,6 +40,10 @@ Book with mental models to become a better learner, thinker and doer
 [How I Escaped My Prison](https://link.com.de/thinkerprison)
 <br>
 A playbook to make you a better thinker
+
+[Into the Pensive](https://link.com.de/pensive)
+<br>
+Engage thinkers and doers philosophically
 
 [Reflexivity in Financial Markets](https://link.com.de/reflexivity)
 <br>
