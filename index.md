@@ -23,6 +23,6 @@ Book with mental models to become a better learner, thinker and doer.
 
 [Reflexivity in Financial Markets](https://link.com.de/reflexivity)
 <br>
-An Alternative Theory of How Markets Work
+An alternative theory of how markets work
 
 
