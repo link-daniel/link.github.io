@@ -7,3 +7,7 @@
 #
 layout: home
 ---
+
+
+[Rule Over Self Book](https://link.com.de/ruleoverself))
+
