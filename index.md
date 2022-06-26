@@ -38,6 +38,10 @@ Essay on the crypto-economic paradigm
 Book with mental models to become a better learner, thinker and doer
 <br>
 
+[How I Escaped My Prison](https://link.com.de/thinkerprison)
+<br>
+The story of how I liberated myself and a playbook to make you a better thinker
+
 [Reflexivity in Financial Markets](https://link.com.de/reflexivity)
 <br>
 An alternative theory of how markets work
