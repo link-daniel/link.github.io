@@ -49,6 +49,10 @@ Book with mental models to become a better learner, thinker and doer
 <br>
 A playbook to make you a better thinker
 
+[Possibilities](https://link.com.de/possibilities)
+<br>
+Speech at Harvard Kennedy School on life's endless possibilities
+
 [Into the Pensive](https://link.com.de/pensive)
 <br>
 Engage thinkers and doers philosophically
