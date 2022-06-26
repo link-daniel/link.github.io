@@ -8,7 +8,7 @@
 layout: home
 ---
 
-[The Dreamer](https://link.com.de/dream)
+[Free Self Through Dreaming](https://link.com.de/dream)
 <br>
 Book on lucid dreaming & dream yoga and how to use it to free yourself
 
