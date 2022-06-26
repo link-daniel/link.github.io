@@ -16,7 +16,11 @@ Book on meditations to break mental loops and free yourself
 <br>
 Book on lucid dreaming and dream yoga
 
-[The Future is Networked](https://link.com.de/networked)
+[On virtual dreams](https://link.com.de/virtualdreams)
+<br>
+Essay on birth of virtual dreams
+
+[The Future is Networked](https://link.com.de/futurenetworked)
 <br>
 Essay on the crypto-economic paradigm
 
