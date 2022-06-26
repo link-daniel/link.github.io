@@ -3,7 +3,7 @@ layout: post
 title:  "Innovation Globalized"
 categories: 
 tags: 
-date: April 10 2015
+date: February 1 2013
 ---
 
 This was my undergraduate honors thesis on Chinese entrepreneurship and innovation, inspired by China’s rise over the last decades to the global economy. I thought I’d share it, in case anyone would be interested to read parts of it, or use it as a foundation for their own work. Please attribute where appropriate.
