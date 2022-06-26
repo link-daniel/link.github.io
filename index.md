@@ -18,7 +18,7 @@ Book on lucid dreaming and dream yoga
 
 [The Future is Networked](https://link.com.de/futurenetworked)
 <br>
-Essay on the crypto-economic paradigm
+Essay on network theory
 
 [Rule Over Self](https://link.com.de/ruleoverself)
 <br>
