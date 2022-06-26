@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Network Theory"
+title:  "The Future is Networked"
 categories: 
 tags: 
 date: April 2018
