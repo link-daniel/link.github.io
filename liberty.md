@@ -5,4 +5,4 @@ categories:
 tags: 
 ---
 
-This books is about how to break free from infinite mental loops and free yourself.
+This is the first version of a book on meditations of how to break free from infinite mental loops and techniques to free yourself.
