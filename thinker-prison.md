@@ -61,3 +61,5 @@ World War II destroyed Europe. Indeed for most of its history, Europe was in a s
 When I planned to move to the United States to pursue my dreams, I used my imagination to get there. In light of the lack of resources, I focused on relying on my imagination, rather than be constrained by reality. I used my childhood memories to re-imagine my life, imagining what I could become. If I had extrapolated from the last few years of high school, I doubt I would have changed my life at all. Imagination combined with sweat and courage is what made it happen.
 
 Move forward with a sense of idealism and manifest the life that you imagine. The world is malleable and your thoughts can transpire into reality. Apply your knowledge and imagine where you could be in the future.
+
+To read the full book, visit [Rule Over Self Book Page](https://link.com.de/ruleoverself)
