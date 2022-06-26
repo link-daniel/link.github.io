@@ -34,8 +34,7 @@ Balasubramanian (2012) has identified five dimensions of the framework for conce
 
 As we can see innovation is not something that is particularly tied to one region. It can happen anywhere, and the purpose of this thesis is to see whether or not, and to what extent innovation will be arising from other countries, in particular China. In the past, the West may have had predominately been in the driver’s seat of innovation, but that may be about to change, or at least the gravity just as the economic gravity already has may begin to shift towards the East. This does not necessarily mean that innovation will cease to happen in the West, but merely that as other are catching up economically, it is logically the next step become more innovative in order to increase the output of the economy even further, and be part of a larger portion of the global value chain.
 
-### 
-Made in China, Designed in California
+### Made in China, Designed in California
 If there is one region in the world that epitomizes innovation in the world, it is without a doubt Silicon Valley. Especially in terms of technology innovation, the companies that have come out of that region are truly phenomenal. Its shining star, Apple has been so successful in the last decade that at one point last year it had briefly surpassed Exxon Mobile as the world’s largest corporation. Apple’s profits in 2011 alone have been $400,000 per employee, which is even more than that of Goldman Sachs. One major factor behind Apple’s success can be found at the back of any of Apple’s devices such as the iPhone, which bears eight words: assembled in China, designed by Apple in California. Rewind back one hundred years to 1912. Manufacturing and design were not separated to the same degree that they are today. Neighborhoods such as the Garment or the Meatpacking district were places as the names already suggest of manufacturing. Adam Smith (1776) argued that one of the ways to improve a product is being able to see how it is assembled. Today, although design and manufacturing are geographically separated, it scarcely seems to matter, or at least for now as the United States remains the most innovative country in the world. It was not so long ago that Apple was manufacturing their products in the United States, and it has been only over the past few decades with the rise of Asia, especially China, that the supply chain for companies such as Apple has been completely outsourced. The constellation by which innovation comes out of the West, and manufacturing out of Asia may therefore not necessarily stay fixed, and may shift in a similar way as manufacturing has shifted in the past decades. The economy that is poised to overtake the United States as the largest economy in less than a decade is not regarded as a nation of innovators, and many people regard China as a country where companies go to in order to produce goods cheaply. Many regard the Chinese as people who are only able to copy technology from the West, and not as people who can invent and innovate. The hypothesis of this thesis is then to test to what extent the constellation of “assembled in China, and designed in California” will be shifting. However, before we can analyze to what degree innovation is shifting, we need to understand why Apple has moved those manufacturing jobs to China in the first place. And the answer is not cheap labor, as many would assume.
 
 It was in February last year when President Obama convened a dinner with technology leaders to discuss the shared goal of promoting American innovation. (Charles Duhigg and Keith Bradsher, 2012) Ever since the financial crisis, many Americans have been wondering why companies such as Apple are not bringing back those jobs to the United States. So when President Obama asked Steve Jobs during that dinner what it would take to make iPhones in the United States, he was barely alone in asking such a question, especially considering the high unemployment rate. It seems puzzling to many Americans why they cannot do the same work. While many assume that companies such as Apple have outsourced their manufacturing due to the low wages in those emerging markets that is only a small part of the answer. In fact, labor constitutes only a small fraction of the final price of a technology product. (Duhigg and Bradsher 2012) Steve Jobs’s answer that those jobs are not coming back must not have been a satisfying one to the President. The obvious reason why American jobs or for that matter many jobs in the West have been outsourced to countries such as China is that wages in China are only a fraction of what they are in the West. And that is probably true to a certain extent. However, instead of cheap labor, what draws companies such as Apple to move their entire supply chain to China is “the vast scale of overseas factories as well as the flexibility, diligence and industrial skills of foreign workers.” (Duhigg and Bradsher 2012, 1) There is one telling story that the authors disclose that demonstrates why it goes beyond cheap labor. It was in 2007 when Steve Jobs was working on the new iPhone, and requested a glass screen that would not scratch, when it became apparent that a US manufacturer that initially received the contract would not be able to do the job of a Chinese manufacturer. Duhigg and Bradsher explain the dilemma:
@@ -153,48 +152,93 @@ Instead of being fearful we should be excited that many more countries now are e
 
 ### Bibliography
 Balasubramanian, Venkatakrishnan (2012) “Five Dimensions to Conceptualize our Idea to make it a Successful Innovation”, Innovation Management, 23 January 2012
+
 Beckley, Michael (2011) China’s Century. Cambridge: International Security Bergsten, Fred (2006) China: The Balance Sheet. New York: PublicAffairs
+
 Cox, Michael (2002) Whatever Happened to American Decline? London: New Political Economy
+
 Cox, Michael (2007) Is the United States in Decline — Again?, Oxford: International Affairs
+
 Duhigg, Charles and Bradsher, K. (2012) “How the US Lost Out on iPhone Work”, New York Times, 21 January 2012
+
 Ernst, Dieter (2011) “China’s Innovation Policy is a Wake-Up Call for America”, East-West Center: Asia Pacific Issues, May 2011
+
 Ferguson, Niall (2004) Colossus. New York: Penguin
+
 Ferguson, Niall (2008) The Ascent of Money. New York: Penguin
+
 Ferguson, Niall (2011) Civilization. New York: Penguin
+
 Ferguson, Niall (2011) China: Triumph and Turmoil. New York: Channel 4
+
 Ferguson, N. & Schularick, M. (2009) “The End of Chimerica”, HBS Working Paper, November 2009
+
 Fung, Victor (2008) “Global Entrepreneurship: The Contrasting Cases of China and India”, The Business Summit at Harvard Business School, 13 October 2008
+
 Gilman, Douglas. (2010) “The new geography of global innovation”, Goldman Sachs Global Markets Institute, 20 September 2010
+
 Goldman, Daniel (2012) “Why Apple will never bring manufacturing back to the US”, CNN Money, 17 October 2012
+
 Hannon, Paul and Sudeep Reddy. “China Edges Out U.S. as Top Foreign-Investment Draw Amid World Decline” Wall Street Journal, 23 October 2012
+
 Hang, Yasheng (2012) “China’s Innovation Success Depends on Political Changes”, MIT Technology Review, 14 November 2012
+
 Herrero, Alicia Garcia and Chen, Fielding (2012) “Innovation: Where does China stand?”, BBVA Research Economic Watch, 8 June 2012
+
 Hexter, J. & Woetzel, J. (2007) Operation China. Cambridge: HBS Publishing IBM, (2007) “Seizing Opportunities in China’s Innovation Agenda”, IBM Global Business Services, last accessed 2 December 2012: http://www-31.ibm.com/cn/services/bcs/pdf/33892_China_POV_v12_SCREEN.pdf
+
 Jacques, Martin. (2009) When China Rules the World. New York: Penguin
-Joffe, Josef (2009) The Default Power. New York: Foreign Affairs, 2009)
+
+Joffe, Josef (2009) The Default Power. New York: Foreign Affairs, 2009
+
 Jones, Eric (2003) The European Miracle. Cambridge: Cambridge UP, 2003
+
 Kao, John and Leamon, Jerry (2012) “Globalization of Innovation”, Deloitte Global Insights, 26 January 2010
+
 Kissinger, Henry (2011) On China. New York: Penguin
+
 Leonard, Mark (2008) What Does China Think? New York: PublicAffairs
+
 Li, David (2011) Does the 21st Century Belong to China? Toronto: House of Anansi Press
+
 Mir, Iris (2012) “‘Made in China’ Aims for Sophistication”, CKGSB Knowledge, last accessed: 2 December 2012 http://knowledge.ckgsb.edu.cn/2012/11/ 19/marketing/made-in-china-aims-for-sophistication/
+
 Morris, Ian (2010) Why the West Rules for Now. London: Profile Books
+
 Naisbitt, J. & D. (2010) China’s Megatrends. London: HarperCollins
+
 Pomeranz, Kenneth (2001) The Great Divergence. Princeton: Princeton UP
+
 Orr, Gordon (2011) “Unleashing Innovation in China”, McKinsey Quarterly, January 2011
+
 Orr, Gordon and Roth, Eric (2012) “A CEO’s guide to innovation in China” , McKinsey Quarterly, February 2012
+
 Quah, Danny (2012) Global Tensions from a Rising East. London: TEDxLSE, http://dannyquah.wordpress.com/2012/06/07/global-tensions-from-a-rising east/)
+
 Quelch, Jon (2011) “Get Ready for China’s Innovation Juggernaut”, HBR Blog Network, 30 November 2011
+
 Quinn, Adam (2011)The Art of Declining Politely. Oxford: International Affairs. Rappeport, Alan (2011) “Coca-Cola chief criticizes US tax rules”. Financial Times. 26 September 2011
+
 Rogers, Jim (2007) A Bull in China. New York: Random House
+
 Schwartz, Peter (2000) China’s Futures. New York: JosseyBass
+
 Smith, David (2007) The Dragon and the Elephant. London: Profile Books
+
 Soros, George (2001) Soros on Globalization. New York: PublicAffairs, 2001
+
 Soros, George (2004) The Bubble of American Supremacy. New York: PublicAffairs.
+
 Story, Jonathan. (2003) China: The Race to Market. London: Financial Times Prentice Hall
+
 Unknown Author. 2012. “From Brawn to Brain”, The Economist, 10 March 2012
+
 Verrier, Richard (2012) “DreamWorks Animation plans entertainment district in Shanghai”, Los Angeles Times, 8 August 2012
+
 Wang, Jing (2008) Brand New China. Cambridge: Harvard University Press
+
 Wong, Sue-Lin (2012) “Challenging Apple by Imitation”, New York Times, 29 October 2012
+
 Worstall, Tim (2012) “Now Apple’s Manufacturing is Leaving China”, Forbes, 24 July 2012
+
 Zakaria, Fakaria (2009) The Post-American World. New York: W.W. Norton & Company.
