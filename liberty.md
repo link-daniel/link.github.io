@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ultimate Dream Guide"
+title:  "On Liberty"
 categories: 
 tags: 
 ---
 
-# Ultimate Dream Guide
+This books is about how to break free from infinite mental loops and free yourself.
