@@ -51,7 +51,7 @@ A playbook to make you a better thinker
 
 [Possibilities](https://link.com.de/possibilities)
 <br>
-Speech at Harvard Kennedy School on life's endless possibilities
+Speech at Harvard Kennedy School on the theme of opportunities
 
 [Into the Pensive](https://link.com.de/pensive)
 <br>
