@@ -8,11 +8,11 @@
 layout: home
 ---
 
-[On Liberty](https://link.com.de/liberty)
+[Liberty](https://link.com.de/liberty)
 <br>
 Book on meditations to break mental loops and free yourself.
 
-[On Dreaming](https://link.com.de/dream)
+[Dream](https://link.com.de/dream)
 <br>
 Book on lucid dreaming and dream yoga.
 
