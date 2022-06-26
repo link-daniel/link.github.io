@@ -32,6 +32,10 @@ Network Whitepaper
 <br>
 Essay on the crypto-economic paradigm
 
+[The Definite Optimist](https://link.com.de/definiteoptimist)
+<br>
+Essay on definite optimism
+
 [Rule Over Self](https://link.com.de/ruleoverself)
 <br>
 Book with mental models to become a better learner, thinker and doer
