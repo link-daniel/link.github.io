@@ -10,3 +10,6 @@ layout: home
 
 
 
+[## Rule Over Self Book](https://link.com.de/ruleoverself)
+
+[Ultimate Dream Guide](https://link.com.de/dream)
