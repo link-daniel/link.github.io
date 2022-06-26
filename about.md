@@ -10,4 +10,4 @@ My primary purpose is building a brain computer network to create virtual dreams
 <br>
 From my [website](https://linkdaniel.org) you can visit my virtual library, browse through my journals and notebooks or connect through other platforms.\
 <br>
-On this [https://about.me/linkdaniel](About.Me page) you can find all the ways to connect with me on social media. You can also reach me by email by emailing link at linkdaniel.org.
+On this [About.Me page](https://about.me/linkdaniel) you can find all the ways to connect with me on social media. You can also reach me by email by emailing link at linkdaniel.org.
