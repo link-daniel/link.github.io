@@ -18,7 +18,7 @@ Book on lucid dreaming and dream yoga
 
 [On virtual dreams](https://link.com.de/virtualdreams)
 <br>
-Essay on birth of virtual dreams
+Essay on virtual dreams
 
 [The Future is Networked](https://link.com.de/futurenetworked)
 <br>
