@@ -17,6 +17,7 @@ Book on meditations to break mental loops and free yourself
 Book on lucid dreaming and dream yoga
 
 [The Future is Networked](https://link.com.de/futurenetworked)
+<br>
 Essay on the crypto-economic paradigm
 
 [Rule Over Self](https://link.com.de/ruleoverself)
