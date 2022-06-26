@@ -10,22 +10,35 @@ date: January 21, 2021
 A decentralized brain computer network would allow anyone in the world to participate in exploring the frontier of the brain while creating a strong forcing function to accelerate the number of neurons we can currently interface with. A network of peer-to-peer brain computers would empower individuals to own the data that would flow between brains and computers. By creating a network of open, permissionless protocols for brain computers, a diverse set of stakeholders will govern and guide its future. Virtual dreams as a novel medium could become an alternative reality to explore the nature of reality and accelerate progress in the mind sciences. Other brain computer applications could be developed as tools for individuals to heal and liberate themselves and others. 
 
 ### Contents
-Introduction 3
-The State of the World 6
-A New Telescope 10
-The Neuro Revolution 13
-A History of Brain Computers 16
-The State of Brain Computers 18
-Open Neuro Protocols 20
-Masterplan 25
-Token Economic Model 28
-Virtual Dreams 30
-Brain Computer Applications 34
-Principles 37
-Conclusion 39
+Introduction
+
+The State of the World
+
+A New Telescope
+
+The Neuro Revolution
+
+A History of Brain Computers
+
+The State of Brain Computers
+
+Open Neuro Protocols
+
+Masterplan
+
+Token Economic Model
+
+Virtual Dreams
+
+Brain Computer Applications
+
+Principles
+
+Conclusion
+
 References and further reading
 
-
+### Introduction
 
 When Satoshi Nakamoto published the Bitcoin whitepaper in 2008, presenting a solution backed by code to an old computer science problem, he was able to create the foundation for an alternative system to the legacy financial system. Thanks to cryptographic breakthroughs that have been made over the last few decades, the leaders who built on Satoshi’s shoulders continue and expand upon her legacy by building an alternative, decentralized financial network. In a similar vein, there have been tremendous scientific breakthroughs in the world of neuroscience. We are witnessing the birth of brain computer interfaces and the beginnings of the brain as a frontier. The brain’s great frontier is itself. We can now take steps to catalyze this neuro revolution by creating an alternative system which will accelerate our understanding of the brain and allow us to answer long-standing questions about consciousness itself. 
 
@@ -104,7 +117,7 @@ As brain computer interfaces allow us to interact with more neurons in the brain
 Therefore, we need to create brain computers that are powerful enough to usher in this era of virtual worlds, in which virtual dreams become the medium through which we communicate with others and experience an alternative reality. 
 
 
-# The Neuro Revolution
+### The Neuro Revolution
 
 In order to be able to create novel technology to introspect our minds and explore the nature of reality, we must rely on the underlying technology that would enable the creation of such tools. It will be thanks to brain computer interfaces, the foundational technology that connects the brain and the computer, that are still in their infancy, which will allow us to build those tools. Before we can build the vehicles of the mind, we need to build the engine that can power those vehicles. Only then can we use those vehicles to travel the inner world of the mind. 
 
@@ -122,7 +135,7 @@ In order to get to this future, the primary goal of the industry is to create a 
 
 We are heading into unknown territory and there will be an endless amount of opportunities. This should encourage us to share our intelligences and work closer together instead of maintaining a closed environment. If we set a foundation based on open and permissionless principles, we can all share a much larger pie. We can also unleash the creativity of so many stakeholders that have yet to enter the space. We will be stronger united. 
 
-# A History of Brain Computers
+### A History of Brain Computers
 
 Before we dive into the history of brain computers, let us define what a brain computer interface, or brain machine interface can do. As the name suggests, a brain computer allows for direct communication between brains and computers. It acquires brain signals converting them into outputs that could carry out particular actions. One of its first use cases is that brain computer interfaces can restore lost sensory motor functions or improve human cognitive functions even if this can only be done in a limited way today. In their simplest terms, brain computers allow brain signal generation that encode intention, which the brain computer subsequently decodes and converts into an action of an output device thereby realizing the initial intention. These devices are geared toward recognizing patterns from neural activity.	
 
@@ -157,7 +170,7 @@ For the computer industry to take off we had Moore’s law. For the neuro revolu
 
 Fast forward to today, we have a series of startups that develop their own technologies. DARPA has already funded academic teams for non-invasive brain computer interfaces. To list a few companies that develop brain computer interfaces, in no particular order: Neuralink, Kernel, OpenBCI, Openwater, etc. Indeed there is a whole list of private companies exploring the uncharted territory of brain computers and each company has their own unique way of doing it. As capital intensity is lowered to build a brain-computer interface, there will be more startups exploring this frontier. It is too early to tell which brain computer interface will become the most successful. We must focus on succeeding as an industry together. 
 	
-# Open Neuro Protocols
+### Open Neuro Protocols
 
 Today the brain computer industry is mostly comprised of private entities, academic research teams and government organizations. Governments support academic teams or startups with financing and academic teams provide startups with talent. In some cases those academic teams spin out startups on their own. This may be too simplistic of a picture, yet it illustrates the crux of the issue, which is that innovation is closed. Under this system everyone is incentivized to hold secrets to stay competitive. While competition is healthy and spurs innovation, it does not optimize for what would be possible if every stakeholder was incentivized to collaborate towards shared goals.
 
@@ -226,7 +239,7 @@ Network will start as a decentralized autonomous organization from inception. Li
 The token will carry the symbol N and supply will be limited to 1,000,000,000. There will be no mint or burn function. As the Bitcoin network is not capable of issuing tokens, we will issue the first version of the token on the Ethereum network, as an ERC-20 token. We also plan to create an NFT with symbol NET that will become the identity token and act as a passport to access the network when individuals will be able to use their brain computer link to connect to the virtual world. We will release a paper on the identity layer of the network in due time. In the future the token may be upgraded to enable it to interact with smart contracts and brain computer systems. We will strive to integrate with other organizations to make the network stronger. The supply will never be changed and no additional tokens will be issued under any circumstances.
 
 
-# Virtual Dreams
+### Virtual Dreams
 
 Standing at the beginning of a new decade that will enable things most would not deem possible, we must have the courage to do the impossible and dream a new dream. Let us ask how we can achieve what was never done before. What are things that we can invent that never existed before and will improve life? To create something that will allow us to see ourselves and the world from a new light.
 
