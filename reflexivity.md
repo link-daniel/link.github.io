@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Reflexivity in Financial Markets
+title: Reflexivity in Financial Markets: An Alternative Theory of How Markets Work
 permalink: /reflexivity/
 ---
-
-An Alternative Theory of How Markets Work
 
 This was my undergraduate economics thesis on reflexivity in financial markets, inspired by George Soros’s theory of reflexivity. I thought I’d share it, in case anyone would be interested to read parts of it, or use it as a foundation for their own work. Please attribute where appropriate.
 
