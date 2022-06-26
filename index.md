@@ -36,6 +36,10 @@ Essay on the crypto-economic paradigm
 <br>
 Essay on definite optimism
 
+[The Rise of Networks](https://link.com.de/riseofnetworks)
+<br>
+Essay on networks vs hierarchies
+
 [Rule Over Self](https://link.com.de/ruleoverself)
 <br>
 Book with mental models to become a better learner, thinker and doer
