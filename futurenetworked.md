@@ -56,12 +56,17 @@ The printing revolution unleashed wave after wave of revolution. The question is
 #### His 7 insights of network theory:
 
 - No man is an island: Individuals can be understood in terms of the relationship to other nodes. Defined by the number of relationships, and the likelihood of her being a bridge between other nodes. To what extent can you be a network bridge? Connectors are the new leaders.
-Birds of a feather flock together: what is the nature of the network linkages? What gets exchanged within the network? What kind of network is it? What is the relationship between the different nodes?
+
+- Birds of a feather flock together: what is the nature of the network linkages? What gets exchanged within the network? What kind of network is it? What is the relationship between the different nodes?
 
 - Weak ties are strong: How dense is a network? How connected it is to other clusters?
+
 - Structure determines virality: Ideas go viral because of the structural features of the network. Networks are more likely to do this than hierarchies.
+
 - Networks never sleep: Dynamic networks are prone to constant changes. As Ferguson explains, they are “complex adaptive systems with emergent properties.” Small changes can have big consequences.
+
 - Networks network: Interaction within networks can lead to innovation and invention.
+
 - The rich get richer: Most social networks are profoundly inegalitarian.
 
 Ferguson’s conclusion: “Expect continued network-driven disruption of hierarchies that cannot reform themselves, but also the potential for some kind of restoration of hierarchical order when it becomes clear that the networks alone cannot avert a decent into anarchy.”
@@ -81,7 +86,7 @@ I can state the core idea in two relatively simple propositions. One is that in 
 
 If you like more details on this:
 
-The concept of reflexivity needs a little more explication. It applies exclusively to situations that have thinking participants. The participants’ thinking serves two functions. One is to understand the world in which we live; I call this the cognitive function. The other is to change the situation to our advantage. I call this the participating or manipulative function. The two functions connect thinking and reality in opposite directions. In the cognitive function, reality is supposed to determine the participants’ views; the direction of causation is from the world to the mind. By contrast, in the manipulative function, the direction of causation is from the mind to the world, that is to say, the intentions of the participants have an effect on the world. When both functions operate at the same time they can interfere with each other.
+> The concept of reflexivity needs a little more explication. It applies exclusively to situations that have thinking participants. The participants’ thinking serves two functions. One is to understand the world in which we live; I call this the cognitive function. The other is to change the situation to our advantage. I call this the participating or manipulative function. The two functions connect thinking and reality in opposite directions. In the cognitive function, reality is supposed to determine the participants’ views; the direction of causation is from the world to the mind. By contrast, in the manipulative function, the direction of causation is from the mind to the world, that is to say, the intentions of the participants have an effect on the world. When both functions operate at the same time they can interfere with each other.
 
 How? By depriving each function of the independent variable that would be needed to determine the value of the dependent variable. Because, when the independent variable of one function is the dependent variable of the other, neither function has a genuinely independent variable. This means that the cognitive function can’t produce enough knowledge to serve as the basis of the participants’ decisions. Similarly, the manipulative function can have an effect on the outcome, but can’t determine it. In other words, the outcome is liable to diverge from the participants’ intentions. There is bound to be some slippage between intentions and actions and further slippage between actions and outcomes. As a result, there is an element of uncertainty both in our understanding of reality and in the actual course of events.
 
@@ -99,9 +104,9 @@ If you care to read my take on it, I wrote my undergraduate thesis on Soros’s 
 
 Again, better to be understood in Soros’s own words:
 
-I have developed a theory about boom-bust processes, or bubbles, along these lines. Every bubble has two components: an underlying trend that prevails in reality and a misconception relating to that trend. A boom-bust process is set in motion when a trend and a misconception positively reinforce each other. The process is liable to be tested by negative feedback along the way. If the trend is strong enough to survive the test, both the trend and the misconception will be further reinforced. Eventually, market expectations become so far removed from reality that people are forced to recognize that a misconception is involved. A twilight period ensues during which doubts grow, and more people loose faith, but the prevailing trend is sustained by inertia. As Chuck Prince, former head of Citigroup said: we must continue dancing until the music stops. Eventually a point is reached when the trend is reversed; it then becomes self reinforcing in the opposite direction…
+> I have developed a theory about boom-bust processes, or bubbles, along these lines. Every bubble has two components: an underlying trend that prevails in reality and a misconception relating to that trend. A boom-bust process is set in motion when a trend and a misconception positively reinforce each other. The process is liable to be tested by negative feedback along the way. If the trend is strong enough to survive the test, both the trend and the misconception will be further reinforced. Eventually, market expectations become so far removed from reality that people are forced to recognize that a misconception is involved. A twilight period ensues during which doubts grow, and more people loose faith, but the prevailing trend is sustained by inertia. As Chuck Prince, former head of Citigroup said: we must continue dancing until the music stops. Eventually a point is reached when the trend is reversed; it then becomes self reinforcing in the opposite direction…
 
-… Bubbles that conform to this pattern go through distinct stages: inception; a period of acceleration, interrupted and reinforced by successful tests; a twilight period; and the reversal point or climax, followed by acceleration on the downside culminating in a financial crisis. The length and strength of each stage is unpredictable, but there is an internal logic to the sequence of stages. So the sequence is predictable-but even that can be terminated by government intervention or some other form of negative feedback.
+> … Bubbles that conform to this pattern go through distinct stages: inception; a period of acceleration, interrupted and reinforced by successful tests; a twilight period; and the reversal point or climax, followed by acceleration on the downside culminating in a financial crisis. The length and strength of each stage is unpredictable, but there is an internal logic to the sequence of stages. So the sequence is predictable-but even that can be terminated by government intervention or some other form of negative feedback.
 
 Typically, bubbles have an asymmetric shape. The boom is long and drawn out: slow to start, it accelerates gradually until it flattens out during the twilight period. The bust is short and steep because it is reinforced by the forced liquidation of unsound positions. Disillusionment turns into panic, reaching its climax in a financial crisis.
 
