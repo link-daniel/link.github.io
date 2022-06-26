@@ -10,15 +10,15 @@ layout: home
 
 [Liberty](https://link.com.de/liberty)
 <br>
-Book on meditations to break mental loops and free yourself.
+Book on meditations to break mental loops and free yourself
 
 [Dream](https://link.com.de/dream)
 <br>
-Book on lucid dreaming and dream yoga.
+Book on lucid dreaming and dream yoga
 
 [Rule Over Self](https://link.com.de/ruleoverself)
 <br>
-Book with mental models to become a better learner, thinker and doer.
+Book with mental models to become a better learner, thinker and doer
 <br>
 
 [Reflexivity in Financial Markets](https://link.com.de/reflexivity)
