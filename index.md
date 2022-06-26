@@ -12,6 +12,9 @@ layout: home
 # Index
 
 [Rule Over Self Book](https://link.com.de/ruleoverself)
+<br>
 Book with mental models to become a better learner, thinker and doer
 
 [Ultimate Dream Guide](https://link.com.de/dream)
+<br>
+Very expansive list on lucid dreaming & dream yoga
