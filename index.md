@@ -53,8 +53,12 @@ A playbook to make you a better thinker
 <br>
 Engage thinkers and doers philosophically
 
+[Innovation Globalized](https://link.com.de/innovationglobalized)
+<br>
+Thesis on how innovation will be globalized
+
 [Reflexivity in Financial Markets](https://link.com.de/reflexivity)
 <br>
-An alternative theory of how markets work
+Thesis on an alternative theory of how markets work
 
 
