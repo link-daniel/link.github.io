@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "From Ordinary to Extraordinary"
+title:  "Possibilities"
 categories: 
 tags: 
 date: October 10 2015
