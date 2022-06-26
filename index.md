@@ -20,6 +20,7 @@ Book on lucid dreaming and dream yoga.
 <br>
 Book with mental models to become a better learner, thinker and doer.
 <br>
+
 [Reflexivity in Financial Bubbles](https://link.com.de/reflexivity)
 <br>
 An Alternative Theory of How Markets Work
