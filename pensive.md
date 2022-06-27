@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Into the Pensive"
+title:  "Pensive Series"
 categories: 
 tags: 
 date: July 28 2016
