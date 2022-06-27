@@ -6,10 +6,9 @@ tags:
 date: April 15 2014
 ---
 
-The Only Resource You’ll Ever Need
-This is a brief on Aristotle and his Politics that I prepared for my exam on political philosophy at the London School of Economics. May it help you in whatever way you need to prepare for Aristotle. It’s not complete, but covers most areas.
-It covers Aristotle on topics of the constitution, the good life, and political participation. “Critiques Of” includes philosophers or ideas that challenge the topic. “Importance Of” explains the most important points on the topic from the philosopher’s point of view. And “Excerpts Of”, as the name suggests, offers a few quotes by the philosopher.
-Aristotle Brief
+This is a brief on Aristotle and his Politics that I prepared for my exam on political philosophy at the London School of Economics. May it help you in whatever way you need to prepare for Aristotle. It’s not complete, but covers most areas. It covers Aristotle on topics of the constitution, the good life, and political participation. 
+
+“Critiques Of” includes philosophers or ideas that challenge the topic. “Importance Of” explains the most important points on the topic from the philosopher’s point of view. And “Excerpts Of”, as the name suggests, offers a few quotes by the philosopher.
 
 ### CONTENTS
 
