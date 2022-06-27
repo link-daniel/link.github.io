@@ -6,6 +6,8 @@ tags:
 date: May 14 2012
 ---
 
+<img src="/media/emerson.jpg" />
+
 “The great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.” — Ralph Waldo Emerson
 When I attended high school in Germany, I was deterred by philosophy’s complex logic. It was only when I moved abroad for college that I reconsidered studying philosophy.
 
