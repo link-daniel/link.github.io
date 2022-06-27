@@ -6,6 +6,8 @@ tags:
 date: March 19 2014
 ---
 
+<img src="/media/jackdorsey.jpg" />
+
 The co-founder of Twitter and Square tells students how to stay creative and embrace serendipity
 
 A good speech inspires. It stirs emotion. It is simple. And sometimes a good speech comes disguised as something else. When Jack Dorsey, co-founder of Twitter and Square, visited Harvard Business School last week, his fireside chat with Karen G. Mills ’75, a past Administrator of the Small Business Administration, evoked emotions that only memorable speeches do.
