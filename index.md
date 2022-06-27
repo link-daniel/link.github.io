@@ -53,7 +53,7 @@ A playbook to make you a better thinker
 <br>
 Speech at Harvard Kennedy School on the theme of opportunities
 
-[Into the Pensive](https://link.com.de/pensive)
+[Pensive Series](https://link.com.de/pensive)
 <br>
 Engage thinkers and doers philosophically
 
