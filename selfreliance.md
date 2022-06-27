@@ -30,7 +30,7 @@ One piece that helped me to think independently is a short essay on self-relianc
 
 The text is quite old and the language rather inaccessible to most. I certainly did not find it easy to read through the original piece. As his work is so important, however, I want to share the three points that define his essay: the self-contained genius, the disapproval of the world and the value of self-worth.
 
-### The Self-Contained Genius
+#### The Self-Contained Genius
 “Speak what you think today in hard words and tomorrow speak what tomorrow thinks in hard words again, though it contradict every thing you said today.” — Emerson
 
 Inside of each person is a genius, Emerson argues. “To believe your own thought, to believe that what is true for you in your private heart is true for all men, — that is genius,” he wrote.
