@@ -57,6 +57,10 @@ Speech at Harvard Kennedy School on the theme of opportunities
 <br>
 Engage thinkers and doers philosophically
 
+[Afternoon Series](https://link.com.de/afternoon)
+<br>
+Conversations with leading founders and thinkers
+
 [Innovation Globalized](https://link.com.de/innovationglobalized)
 <br>
 Thesis on how innovation will be globalized
