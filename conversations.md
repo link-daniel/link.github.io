@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Afternoon Series"
+title:  "Conversations"
 categories: 
 ---
 
