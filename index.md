@@ -57,7 +57,7 @@ Speech at Harvard Kennedy School on the theme of opportunities
 <br>
 Engage thinkers and doers philosophically
 
-[Afternoon Series](https://link.com.de/afternoon)
+[Conversations](https://link.com.de/conversations)
 <br>
 Conversations with leading founders and thinkers
 
