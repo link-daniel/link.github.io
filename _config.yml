@@ -50,6 +50,7 @@ minima:
 header_pages:
  - about.md
  - subscribe.md
+ - website.md
 
 # Build settings
 theme: minima
