@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Choose Your Company Wisely"
+title:  "Stay Humble"
 categories: essay
 tags: syrus thinking
 ---
