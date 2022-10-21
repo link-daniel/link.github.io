@@ -127,7 +127,7 @@ Turns thoughts into action and unlocks the keys to transform your ideas into rea
 [Action Takeaway](/action-takeaway)
 
 
-[Epilogue](https://note.link.com.de/epilogue)
+[Epilogue](/epilogue)
 
 ### More information
 
