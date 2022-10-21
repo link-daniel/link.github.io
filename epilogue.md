@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Rule Over Self: Epilogue"
-categories: 
+categories: essay
 tags: syrus action
 ---
 
 “Rule your mind or it will rule you.”
 — Horace
 
-A s a collection of ideas that were divided into three parts, it is important to appreciate every part on its own and the power it has to help us grow. If we improve on how we learn, think, and act, we are closer to unlocking our potential.
+As a collection of ideas that were divided into three parts, it is important to appreciate every part on its own and the power it has to help us grow. If we improve on how we learn, think, and act, we are closer to unlocking our potential.
 
 We have learned the importance of learning, thinking, and doing, and the interconnectedness between the three when it comes to personal growth. In a large way, the meaning of life is growth. We constantly have the need to grow.
 
