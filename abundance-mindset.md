@@ -8,7 +8,7 @@ tags: syrus thinking
 “If I take 30 steps linearly, I get to 30. If I take 30 steps exponentially, I get to a billion.”
 — Ray Kurzweil
 
-W e used to live in a zero-sum, linear and local world. In our world of smartphones and connected devices, of constant updates and new versions, a world that is seemingly marching without respite toward greater complexity, it is difficult to imagine that old world and what it meant to live back then.
+We used to live in a zero-sum, linear and local world. In our world of smartphones and connected devices, of constant updates and new versions, a world that is seemingly marching without respite toward greater complexity, it is difficult to imagine that old world and what it meant to live back then.
 
 The majority of the slightly over 100 billion people that have ever lived on earth lived in a world without rapid progress and economic growth. That world carried its set of assumptions, dynamics, properties, and rules.
 
