@@ -8,23 +8,15 @@
 layout: home
 ---
 
-[Liberty](https://link.com.de/liberty)
-<br>
-Book on meditations to break mental loops and free yourself
-
-[Dream](https://link.com.de/dream)
-<br>
-Book on lucid dreaming and dream yoga
-
-[Notes on culture, religion and technology](https://link.com.de/lincolnthiel)
+[Notes on culture, religion and technology](/lincolnthiel)
 <br>
 Thoughts from Peter Thiel on culture, religion and technology
 
-[On virtual dreams](https://link.com.de/virtualdreams)
+[On virtual dreams](https://linkdaniel.org/virtualdreams)
 <br>
 Essay on virtual dreams
 
-[A Virtual Dream And Brain Computer Protocol](https://link.com.de/network)
+[A Virtual Dream And Brain Computer Protocol](https://linkdaniel.org/network)
 <br>
 Network Whitepaper
 
