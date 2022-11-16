@@ -3,7 +3,7 @@ layout: post
 title:  "Aristotle on the Good Life"
 categories: 
 tags: 
-date: October 5 2013
+date: October 6 2013
 ---
 
 How does the state secure the good life for man?
