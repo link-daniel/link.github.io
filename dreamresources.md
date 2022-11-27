@@ -7,25 +7,20 @@ tags:
 
 This is a list of resources on lucid dreaming and dream yoga.
 
-<h3>Books</h3>
 
-[Goodreads Dream Book List](https://www.goodreads.com/review/list/95737422-link-daniel?ref=nav_mybooks&shelf=dreams)
+[Book List](https://www.goodreads.com/review/list/95737422-link-daniel?ref=nav_mybooks&shelf=dreams)
 <br>
-All the books I've read about lucid dreaming and dream yoga.
+All the books I've read about lucid dreaming and dream yoga saved on Goodreads.
 
-<h3>Films</h3>
+[Film List](https://www.imdb.com/list/ls083385013/)
 
-[YouTube Movie Video List](https://www.imdb.com/list/ls083385013/)
+A selection of films on lucid dreaming and dream yoga saved on imdb.
 
-A selection of films on lucid dreaming and dream yoga.
+[Video List](https://www.youtube.com/playlist?list=PL3IOQtA2di8PQNdPo2_FVaBlhVkb5PUXM)
 
-<h3>Lectures</h3>
+A series of lectures and videos on lucid dreaming and dream yoga saved on YouTube.
 
-[YouTube Dream Video List](https://www.youtube.com/playlist?list=PL3IOQtA2di8PQNdPo2_FVaBlhVkb5PUXM)
-
-A series of lectures and videos on lucid dreaming and dream yoga.
-
-<h3>Teachings</h3>
+<h4>Teachings</h4>
 
 [Dream Yoga: Deepening Your Awareness Night and Day (2017)](https://cybersangha.net/dream-yoga-deepening-your-awareness-night-and-day-teaching-series/)
 
