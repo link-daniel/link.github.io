@@ -9,7 +9,7 @@ This is a list of resources on lucid dreaming and dream yoga.
 
 <h3>Books</h3>
 
-[Goodreads List](https://www.goodreads.com/review/list/95737422-link-daniel?ref=nav_mybooks&shelf=dreams)
+[Link's Goodreads Dream Book List](https://www.goodreads.com/review/list/95737422-link-daniel?ref=nav_mybooks&shelf=dreams)
 <br>
 All the books I've read about lucid dreaming and dream yoga
 
