@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lucid Dreaming / Dream Yoga Resources"
+title:  "Lucid Dream / Dream Yoga Resources"
 categories: 
 tags:
 ---
@@ -13,7 +13,7 @@ All the books I've read about lucid dreaming and dream yoga saved on Goodreads.
 
 [Community List](https://docs.google.com/spreadsheets/d/1aHJ22wPwA1KVqEVZOHYPOZb7O3lmLIIBz6vGyTHrPa4)
 <br>
-A list of all the communities available on the internet and in real life.
+A list of lucid dreaming / dream yoga communities, both internet and offline.
 
 [Film List](https://www.imdb.com/list/ls083385013/)
 <br>
