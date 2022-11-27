@@ -8,9 +8,9 @@
 layout: home
 ---
 
-<h3>Hello, World! This is the web home of Link Daniel </h3>
-
-<h4>Latest Writings:</h4>
+[Lucid Dreaming / Dream Yoga Resources](/dreamresources)
+<br>
+A list of resources on lucid dreaming and dream yoga
 
 [Notes on culture, religion and technology](/lincolnthiel)
 <br>
