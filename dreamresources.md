@@ -7,6 +7,7 @@ tags:
 
 This is a list of resources on lucid dreaming and dream yoga.
 
+<h4>Lists</h4>
 
 [Book List](https://www.goodreads.com/review/list/95737422-link-daniel?ref=nav_mybooks&shelf=dreams)
 <br>
@@ -22,5 +23,10 @@ A series of lectures and videos on lucid dreaming and dream yoga saved on YouTub
 
 [Dream Yoga: Deepening Your Awareness Night and Day (2017)](https://cybersangha.net/dream-yoga-deepening-your-awareness-night-and-day-teaching-series/)
 
-In summer 2017 Tenzin Wangyal Rinpoche offered a series of free Facebook Live teachings, guided meditations, and question-answer sessions on Dream Yoga and hosted several Facebook Live conversations with other experts in the field.
+Dream Yoga series hosted in summer 2017 by Tenzin Wangyal on Facebook.
 
+<h4>Communities</h4>
+
+Night Club by Andrew Holocek
+
+Tech for Dreaming by Brian Gilan
