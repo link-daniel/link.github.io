@@ -18,3 +18,11 @@ All the books I've read about lucid dreaming and dream yoga
 [Dream Yoga: Deepening Your Awareness Night and Day (2017)](https://cybersangha.net/dream-yoga-deepening-your-awareness-night-and-day-teaching-series/)
 
 In summer 2017 Tenzin Wangyal Rinpoche offered a series of free Facebook Live teachings, guided meditations, and question-answer sessions on Dream Yoga and hosted several Facebook Live conversations with other experts in the field.
+
+<h3>Lectures</h3>
+
+[Link's YouTube Dream Video List](https://www.youtube.com/playlist?list=PL3IOQtA2di8PQNdPo2_FVaBlhVkb5PUXM)
+
+A series of lectures and videos on lucid dreaming and dream yoga.
+
+
