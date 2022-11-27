@@ -14,23 +14,29 @@ This is a list of resources on lucid dreaming and dream yoga.
 All the books I've read about lucid dreaming and dream yoga saved on Goodreads.
 
 [Film List](https://www.imdb.com/list/ls083385013/)
+<br>
 A selection of films on lucid dreaming and dream yoga saved on imdb.
 
 [Video List](https://www.youtube.com/playlist?list=PL3IOQtA2di8PQNdPo2_FVaBlhVkb5PUXM)
+<br>
 A series of lectures and videos on lucid dreaming and dream yoga saved on YouTube.
 
 <h4>Teachings</h4>
 
 [Dream Yoga: Deepening Your Awareness Night and Day (2017)](https://cybersangha.net/dream-yoga-deepening-your-awareness-night-and-day-teaching-series/)
+<br>
 Dream Yoga series hosted in summer 2017 by Tenzin Wangyal on Facebook.
 
 <h4>Communities</h4>
 
 [Network](https://network.com.de)
+<br>
 Network community on neural interface powered dreams.
 
 [Night Club](https://community.nightclub.andrewholecek.com/latest)
+<br>
 Andrew Holocek's community on lucid dreaming.
 
 [Tech for Dreaming](https://techfordreaming.com)
+<br>
 Brian Gilan community focused on technology and lucid dreaming.
