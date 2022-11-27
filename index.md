@@ -8,7 +8,7 @@
 layout: home
 ---
 
-[Lucid Dreaming / Dream Yoga Resources](/dreamresources)
+[Lucid Dreaming / Dream Yoga Resources](/dreams)
 <br>
 A list of resources on lucid dreaming and dream yoga
 
