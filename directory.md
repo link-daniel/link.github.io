@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index
+title: Directory
 permalink: /directory/
 ---
 
