@@ -17,6 +17,10 @@ All the books I've read about lucid dreaming and dream yoga saved on Goodreads.
 <br>
 A selection of films on the topic of dreams saved on imdb.
 
+[Teacher List](https://docs.google.com/spreadsheets/d/1Npe47WoNQHJvCvelLL6Duq9wOfdOuSb4lR2FF1cBeCI/edit?usp=sharing)
+<br>
+A list of teachers and workshops they teach
+
 [Video List](https://www.youtube.com/playlist?list=PL3IOQtA2di8PQNdPo2_FVaBlhVkb5PUXM)
 <br>
 A series of lectures and videos on lucid dreaming and dream yoga saved on YouTube.
@@ -31,6 +35,7 @@ Dream Yoga series hosted in summer 2017 by Tenzin Wangyal on Facebook.
 <br>
 Lucid dreaming retreat by Alan Wallace from 2011.
 
+
 <h4>Communities</h4>
 
 [Network](https://network.com.de)
@@ -40,6 +45,10 @@ Network community on neural interface powered dreams.
 [Night Club](https://community.nightclub.andrewholecek.com/latest)
 <br>
 Andrew Holocek's community on lucid dreaming.
+
+[Lucid Dreaming Reddit](https://www.reddit.com/r/LucidDreaming/)
+<br>
+Subreddit on lucid dreaming.
 
 [Tech for Dreaming](https://techfordreaming.com)
 <br>
