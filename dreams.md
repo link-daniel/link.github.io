@@ -31,7 +31,7 @@ A series of lectures and videos on lucid dreaming and dream yoga saved on YouTub
 <br>
 Dream Yoga series hosted in summer 2017 by Tenzin Wangyal on Facebook.
 
-[Lucid Dreaming and Dream Yoga Retreat Day](https://archive.org/details/LucidDreamingAndDreamYogaRetreatDay1/01DreamYogaRetreat111025AfternoonPart1.mp3)
+[Lucid Dreaming and Dream Yoga Retreat Day (2011)](https://archive.org/details/LucidDreamingAndDreamYogaRetreatDay1/01DreamYogaRetreat111025AfternoonPart1.mp3)
 <br>
 Lucid dreaming retreat by Alan Wallace from 2011.
 
