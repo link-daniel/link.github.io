@@ -15,7 +15,7 @@ All the books I've read about lucid dreaming and dream yoga saved on Goodreads.
 
 [Film List](https://www.imdb.com/list/ls083385013/)
 <br>
-A selection of films on lucid dreaming and dream yoga saved on imdb.
+A selection of films on the topic of dreams saved on imdb.
 
 [Video List](https://www.youtube.com/playlist?list=PL3IOQtA2di8PQNdPo2_FVaBlhVkb5PUXM)
 <br>
