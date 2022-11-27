@@ -22,11 +22,15 @@ A series of lectures and videos on lucid dreaming and dream yoga saved on YouTub
 <h4>Teachings</h4>
 
 [Dream Yoga: Deepening Your Awareness Night and Day (2017)](https://cybersangha.net/dream-yoga-deepening-your-awareness-night-and-day-teaching-series/)
-
 Dream Yoga series hosted in summer 2017 by Tenzin Wangyal on Facebook.
 
 <h4>Communities</h4>
 
-Night Club by Andrew Holocek
+[Network](https://network.com.de)
+Network community on neural interface powered dreams.
 
-Tech for Dreaming by Brian Gilan
+[Night Club](https://community.nightclub.andrewholecek.com/latest)
+Andrew Holocek's community on lucid dreaming.
+
+[Tech for Dreaming](https://techfordreaming.com)
+Brian Gilan community focused on technology and lucid dreaming.
