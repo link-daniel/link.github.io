@@ -13,17 +13,17 @@ This is a list of resources on lucid dreaming and dream yoga.
 <br>
 All the books I've read about lucid dreaming and dream yoga.
 
+<h3>Films</h3>
+
+[YouTube Movie Video List](https://www.imdb.com/list/ls083385013/)
+
+A selection of films on lucid dreaming and dream yoga.
+
 <h3>Lectures</h3>
 
 [YouTube Dream Video List](https://www.youtube.com/playlist?list=PL3IOQtA2di8PQNdPo2_FVaBlhVkb5PUXM)
 
 A series of lectures and videos on lucid dreaming and dream yoga.
-
-<h3>Teachings</h3>
-
-[YouTube Movie Video List](https://www.imdb.com/list/ls083385013/)
-
-A selection of films on lucid dreaming and dream yoga.
 
 <h3>Teachings</h3>
 
