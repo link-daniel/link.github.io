@@ -27,6 +27,6 @@ A list of dream teachers and workshops they teach.
 <br>
 A series of lectures and videos on lucid dreaming and dream yoga saved on YouTube.
 
-[Workshop List](https://docs.google.com/spreadsheets/d/1pKmRGM3VdAVNhSjQIFDx8u7sl7FP8iCvUpxqoc4Hb6E/edit?usp=sharing)
+[Workshop List](https://docs.google.com/spreadsheets/d/1Npe47WoNQHJvCvelLL6Duq9wOfdOuSb4lR2FF1cBeCI/edit#gid=14572024)
 <br>
 Upcoming workshops, courses, meetups and programs on lucid dreaming and dream yoga.
