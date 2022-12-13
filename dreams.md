@@ -11,7 +11,7 @@ This is a list of resources on lucid dreaming and dream yoga.
 <br>
 All the books I've read about lucid dreaming and dream yoga saved on Goodreads.
 
-[Community List](https://docs.google.com/spreadsheets/d/1aHJ22wPwA1KVqEVZOHYPOZb7O3lmLIIBz6vGyTHrPa4)
+[Community List](https://docs.google.com/spreadsheets/d/1Npe47WoNQHJvCvelLL6Duq9wOfdOuSb4lR2FF1cBeCI/edit#gid=1273246878)
 <br>
 A list of lucid dreaming / dream yoga communities, both internet and offline.
 
