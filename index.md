@@ -9,20 +9,20 @@ layout: home
 ---
 
 
-<b>Working on [Network](/www.network.com.de).</b>
+<b>Working on [Network](https://www.network.com.de).</b>
 <br>
 <br>
 <br>
 
-[About](/linkdaniel.pages.dev/about)
+[About](https://linkdaniel.pages.dev/about)
 <br>
 More about Link Daniel.
 
-[Biography](/linkdaniel.pages.dev/bio)
+[Biography](https://linkdaniel.pages.dev/bio)
 <br>
 Extended biography with profile.
 
-[Codex](/linkdaniel.org) (Coming Soon)
+[Codex](/linkdaniel.org)
 <br>
 Codex with personal collections and curations.
 
@@ -30,11 +30,11 @@ Codex with personal collections and curations.
 <br>
 Stay updated and subscribe to the newsletter.
 
-[Newsletter](/linkdaniel.substack.com)
+[Newsletter](https://linkdaniel.substack.com)
 <br>
 Stay updated and subscribe to the newsletter.
 
-[Network](/www.network.com.de)
+[Network](https://www.network.com.de)
 <br>
 Directory of network related projects.
 
