@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Essays
-permalink: /Essays/
+title: essays
+permalink: /essays/
 ---
 
 
