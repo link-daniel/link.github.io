@@ -37,9 +37,9 @@ A personal library with collections and curations
 <br>
 Directory of network related projects.
 
-[Updates](https://linkdaniel.substack.com)
+[Updates](/updates)
 <br>
-Stay updated via the newsletter.
+Stay updated via various channels.
 
 
 
