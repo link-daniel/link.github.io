@@ -33,7 +33,7 @@ A collection of essays.
 <br>
 Stay updated and subscribe to the newsletter.
 
-[Network](https://www.network.com.de)
+[Network](https://network.com.de)
 <br>
 Directory of network related projects.
 
