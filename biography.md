@@ -8,6 +8,8 @@ Link Daniel is the founder and early-stage investor of Network, a virtual dream 
 
 Link is an artist, scientist and architect. He is a self-taught programmer and has degrees in financial history, political philosophy and economics. As a researcher, he also studied cryptography, neuroscience and longevity. Link is an investor and builder of early stage tech startups.
 
+<b>Highlights:</b>
+
 - Played Magic the Gathering tournaments and created one of the first German guilds for World of Warcraft
 
 - German Abitur
