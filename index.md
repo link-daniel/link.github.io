@@ -13,11 +13,11 @@ layout: home
 <br>
 <br>
 
-[About](https://linkdaniel.pages.dev/about)
+[About](/about)
 <br>
 More about Link Daniel.
 
-[Biography](https://linkdaniel.pages.dev/bio)
+[Biography](/biography)
 <br>
 Extended biography with profile.
 
