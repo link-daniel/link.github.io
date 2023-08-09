@@ -33,13 +33,13 @@ A collection of books, essays and writings.
 <br>
 A personal library with collections and curations
 
-[Newsletter](https://linkdaniel.substack.com)
-<br>
-Stay updated via the newsletter.
-
 [Network](https://network.com.de)
 <br>
 Directory of network related projects.
+
+[Updates](https://linkdaniel.substack.com)
+<br>
+Stay updated via the newsletter.
 
 
 
