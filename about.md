@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hello, World! This is my virtual notebook where you can read some of my articles, books, and essays.\
+Hello, World! This is my web home and directory from which you can find things related to my life and work.
+
+I'm building Network, a brain computer network to create neural interface powered dreams in order to empower individuals to discover alternative states of mind and by returning to reality break free from infinite loops and realize their dreams. I'm exploring the mind as an undiscovered world and how two-way feedback loops between brains and computers are going to create a frontier of exploration.
+
+From here you can visit my virtual library, browse through my journals and notebooks or connect through other platforms. Contact by email or message on [X](https://twitter.com/linkxdaniel).
 <br>
-My primary purpose is building a brain computer network to create virtual dreams in order to empower individuals to discover alternative states of mind and by returning to reality break free from infinite loops and realize their dreams. I'm exploring the mind as an undiscovered world and how two-way feedback loops between brains and computers are going to create a frontier of exploration.\
-<br>
-From my [website](https://linkdaniel.org) you can direct to other parts of my library.\
-<br>
-On this [About.me](https://about.me/linkdaniel) page you can find all the ways to connect with me on social media. I'm on [Twitter](https://twitter.com/linkdniel), [Telegram](https://t.me/linkdaniel) and [Instagram](https://instagram.com/linkdniel) the most. You can also reach me by emailing link at [linkdaniel.org](https://linkdaniel.org).
+On this [About.me](https://about.me/linkdaniel) page you can find all the ways to connect with me on social media. I'm on [Twitter](https://twitter.com/linkxdaniel), [Telegram](https://t.me/linkdaniel) and [Instagram](https://instagram.com/linkxdaniel) the most. You can also reach me by emailing link at [linkdaniel.org](https://linkdaniel.org).
+
