@@ -9,7 +9,8 @@ layout: home
 ---
 
 
-Working on [Network](/www.network.com.de).
+<b>Working on [Network](/www.network.com.de).</b>
+<br>
 <br>
 <br>
 
