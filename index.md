@@ -9,8 +9,7 @@ layout: home
 ---
 
 
-<b>Working on [Network](https://www.network.fund).</b>
-<br>
+<b>Working on [Network](https://network.fund).</b>
 <br>
 <br>
 
@@ -22,13 +21,13 @@ More about Link Daniel.
 <br>
 Extended biography with profile.
 
-[Codex](/linkdaniel.org)
+[Codex](/codex)
 <br>
 Codex with personal collections and curations.
 
-[Codex](/essays)
+[Essays](/essays)
 <br>
-Stay updated and subscribe to the newsletter.
+A collection of essays.
 
 [Newsletter](https://linkdaniel.substack.com)
 <br>
