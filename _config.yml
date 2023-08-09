@@ -49,9 +49,9 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.md
+ - codex.md
  - essays.md
- - directory.md
- - subscribe.md
+ - library.md
 
 # Build settings
 theme: minima
