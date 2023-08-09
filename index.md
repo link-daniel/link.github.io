@@ -11,6 +11,7 @@ layout: home
 
 Working on [Network](/www.network.com.de).
 <br>
+<br>
 
 [About](/linkdaniel.pages.dev/about)
 <br>
@@ -19,6 +20,14 @@ More about Link Daniel.
 [Biography](/linkdaniel.pages.dev/bio)
 <br>
 Extended biography with profile.
+
+[Codex](/linkdaniel.org) (Coming Soon)
+<br>
+Codex with personal collections and curations.
+
+[Codex](/essays)
+<br>
+Stay updated and subscribe to the newsletter.
 
 [Newsletter](/linkdaniel.substack.com)
 <br>
