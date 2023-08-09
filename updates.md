@@ -5,8 +5,10 @@ permalink: /updates/
 ---
 
 
-[X](https://twitter.com/linkxdaniel]
-Real-time updates
+[X](https://twitter.com/linkxdaniel)
+<br>
+Updates on X.com
 
 [Newsletter](https://linkdaniel.substack.com)
+<br>
 Subscribe to newsletter 
