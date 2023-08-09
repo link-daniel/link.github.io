@@ -23,15 +23,19 @@ Extended biography with profile.
 
 [Codex](/codex)
 <br>
-Codex with personal collections and curations.
+Codex with sketches and impressions.
 
 [Essays](/essays)
 <br>
-A collection of essays.
+A collection of books, essays and writings.
+
+[Library](/library)
+<br>
+A personal library with collections and curations
 
 [Newsletter](https://linkdaniel.substack.com)
 <br>
-Stay updated and subscribe to the newsletter.
+Stay updated via the newsletter.
 
 [Network](https://network.com.de)
 <br>
