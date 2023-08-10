@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<b>Working on [Network](https://network.fund).</b>
+<b>Working on [Network](https://network.foundation).</b>
 <br>
 <br>
 
@@ -32,13 +32,13 @@ A collection of books, essays and writings.
 <br>
 A personal library with collections and curations
 
-[Network](https://network.com.de)
+[Network](https://network.fund)
 <br>
 Directory of network related projects.
 
 [Updates](/updates)
 <br>
-Stay updated via various channels.
+Stay updated on my life and work.
 
 <br>
 <br>
