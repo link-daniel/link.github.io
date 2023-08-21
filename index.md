@@ -38,7 +38,7 @@ Directory of network related projects.
 
 [Updates](/updates)
 <br>
-Stay updated on my life and work.
+Updates about my life and work.
 
 <br>
 <br>
