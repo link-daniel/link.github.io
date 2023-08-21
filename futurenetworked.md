@@ -5,6 +5,7 @@ categories:
 tags: 
 date: April 3 2018
 ---
+<font size=”5”>
 
 Ten years after Satoshi Nakamoto published the Bitcoin white paper, the world is finally diverging from the old economic model that was deemed broken after the last great financial crisis. Although there is still widespread dissonance within the elite that open, financial protocols are nothing more than a bubble, the genie is out of the bottle. The narrative of the bubble that the media has created will only accelerate this. Looking closely to what is actually happening is key to understanding how the future will develop.
 
@@ -137,3 +138,5 @@ The economic base that will be necessary to sustain an early colony on Mars. Tha
 
 Please steelman my arguments here
 Thiel says we should steelman the people we disagree with. How can we make their arguments even better than we make them? In that vein, please submit your feedback, suggestions, comments and feel free to disagree. As Voltaire used to say, “I wholly disapprove of what you say and will defend to the death your right to say it.” There are many forks in history but not all of them matter in the end. Where will crypto lead you?
+
+</font>
