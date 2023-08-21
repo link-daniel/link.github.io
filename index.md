@@ -8,60 +8,38 @@
 layout: home
 ---
 
-[Lucid Dreaming / Dream Yoga Resources](/dreams)
+<b>Working on [Network](https://network.fund).</b>
 <br>
-A list of resources on lucid dreaming and dream yoga
-
-[Notes on culture, religion and technology](/lincolnthiel)
-<br>
-Thoughts from Peter Thiel on culture, religion and technology
-
-[On virtual dreams](/virtualdreams)
-<br>
-Essay on virtual dreams
-
-[A Virtual Dream And Brain Computer Protocol](/network)
-<br>
-Network Whitepaper
-
-[The Future is Networked](/futurenetworked)
-<br>
-Essay on the crypto-economic paradigm
-
-[The Definite Optimist](/definiteoptimist)
-<br>
-Essay on definite optimism
-
-[The Rise of Networks](/riseofnetworks)
-<br>
-Essay on networks vs hierarchies
-
-[Rule Over Self](/ruleoverself)
-<br>
-Book with mental models to become a better learner, thinker and doer
 <br>
 
-[How I Escaped My Prison](/thinkerprison)
+[About](https://linkdaniel.org/about)
 <br>
-A playbook to make you a better thinker
+More about Link Daniel.
 
-[Possibilities](/possibilities)
+[Biography](https://linkdaniel.org/about)
 <br>
-Speech at Harvard Kennedy School on the theme of opportunities
+Extended biography with profile.
 
-[Pensive Series](/pensive)
+[Codex](/codex)
 <br>
-Engage thinkers and doers philosophically
+Codex with sketches and impressions.
 
-[Conversations](/conversations)
+[Essays](/essays)
 <br>
-Conversations with leading founders and thinkers
+A collection of books, essays and writings.
 
-[Innovation Globalized](/innovationglobalized)
+[Library](/library)
 <br>
-Thesis on how innovation will be globalized
+A personal library with collections and curations
 
-[Reflexivity in Financial Markets](/reflexivity)
+[Network](https://network.com.de)
 <br>
-Thesis on an alternative theory of how markets work
+Directory of network related projects.
 
+[Updates](/updates)
+<br>
+Stay updated on my life and work.
+
+<br>
+<br>
+<br>
