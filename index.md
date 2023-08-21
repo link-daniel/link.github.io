@@ -16,7 +16,7 @@ layout: home
 <br>
 More about Link Daniel.
 
-[Biography](https://linkdaniel.org/biography)
+[Biography](https://linkdaniel.org/bio)
 <br>
 Extended biography with profile.
 
