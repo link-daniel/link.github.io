@@ -12,13 +12,9 @@ layout: home
 <br>
 <br>
 
-[About](https://linkdaniel.org/about)
+[About](/about)
 <br>
 More about Link Daniel.
-
-[Biography](https://linkdaniel.org/bio)
-<br>
-Extended biography with profile.
 
 [Codex](/codex)
 <br>
@@ -39,6 +35,10 @@ Directory of network related projects.
 [Updates](/updates)
 <br>
 Updates about my life and work.
+
+[Website](https://linkdaniel.org)
+<br>
+Extended biography with profile.
 
 <br>
 <br>
