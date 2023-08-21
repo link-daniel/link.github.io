@@ -4,5 +4,4 @@ title: Codex
 permalink: /codex/
 ---
 
-
-Coming soon
+Hello this is a codex with some of my essays, notebook entries, books, etc.
