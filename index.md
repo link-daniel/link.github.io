@@ -12,7 +12,7 @@ layout: home
 <br>
 <br>
 
-[About]((https://linkdaniel.org/about)
+[About](https://linkdaniel.org/about)
 <br>
 More about Link Daniel.
 
