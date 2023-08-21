@@ -5,9 +5,9 @@ categories:
 tags: 
 date: April 3 2018
 ---
-<h5>
+<h4>
 Ten years after Satoshi Nakamoto published the Bitcoin white paper, the world is finally diverging from the old economic model that was deemed broken after the last great financial crisis. Although there is still widespread dissonance within the elite that open, financial protocols are nothing more than a bubble, the genie is out of the bottle. The narrative of the bubble that the media has created will only accelerate this. Looking closely to what is actually happening is key to understanding how the future will develop.
-</h5>
+</h4>
 
 In 2008, I was a student of the financial crisis and operated in the stock market. I had traded Magic the Gathering cards and played World of Warcraft before I got hooked by the stock market. The market struck me as this four dimensional puzzle that you constantly had to figure out in order to predict correctly. The stock market was also foundational to how the global economy functioned. It was a never ending knowledge puzzle that I had to figure out. It was the perfect adventure to embark on: to understand how the world at a deeper level. When I discovered Bitcoin and even more importantly crypto-economics, I was even more in awe.
 
