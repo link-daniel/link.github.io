@@ -4,4 +4,4 @@ title: Codex
 permalink: /codex/
 ---
 
-This is Link's codex with some of my essays, notebook entries, books, etc.
+Inspired by Leonardo da Vinci, this codex is comprised of select essays, journal entries, book chapters, resources, and other material.
