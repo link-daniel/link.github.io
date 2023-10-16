@@ -2,7 +2,7 @@
 layout: post
 title:  "The Art of the Unsent Email"
 categories: 
-tags: syrus action
+tags: 
 ---
 
 ![image](https://github.com/linkdniel/link.github.io/assets/19313119/855a50cd-bc0c-445d-8c49-45c05f45fc03)
