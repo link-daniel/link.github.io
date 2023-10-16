@@ -1,4 +1,9 @@
-### An Evening with Peter Thiel
+---
+layout: post
+title:  "An Evening with Peter Thiel"
+categories: 
+tags: syrus action
+---
 
 The co-founder of PayPal talks about innovation and how technology can pave the way
 
