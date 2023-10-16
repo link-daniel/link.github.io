@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The 7 Habits of Highly Successful Princes"
+title:  "Unipolar Moment"
 categories: 
 tags: 
 date: October 14 2012
