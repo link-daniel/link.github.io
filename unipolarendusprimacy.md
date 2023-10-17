@@ -16,3 +16,23 @@ This seems to validate the declinists view, and there is a strong case made that
 Even if we take China’s rise as a given over the next few decades, and acknowledge that China will be a credible contender to the US’s status as a superpower, and further discount any other internal problems such as political ones that might stop China’s rapid growth rate, we should still not underestimate the United States. China’s rise does not necessarily mean the demise of American primacy. At the moment, the US remains entangled in one of the worst economic crisis since the Great Depression, and is the largest debtor nation in the history of the world. Moreover, the recent partisan standoff over raising the debt ceiling suggests the American political system is losing the capacity for compromise on basic issues, let alone on large-scale problems. But Winston Churchill once said that the Americans would always do the right thing after having exhausted all the alternatives. There is good evidence to suggest that the US will maintain its leadership position in the world. The United States now formally guarantees the security of more than fifty countries, has fought twice as many wars after the Cold War as during it, and spends 25 percent more on defense today than it did in 1968 at the height of combat in Vietnam. China’s military spending in comparison is miniscule. The World Bank recently calculated that 80 percent of the wealth of the United States is made up of intangible assets, most notably, its system of property rights, its efficient judicial system, and the skills, knowledge, and trust embedded within its society. This is something that declinists often do not price into the relative decline of the US to China. In effect, the United States is more like a sponge, steadily increasing its mass by soaking up ideas, technology, and people from the rest of the world.15 At the moment it seems that the United States’ economic, technological, and military lead over China will remain an enduring feature of international relations, not a passing moment in time. It will be a deeply embedded condition that will persist well into this century. Globalization, then, may not be a neutral process that diffuses wealth evenly throughout the international system, but a political process shaped by the United States in ways that serve its interests. Beckley concludes that the US does not face a hegemonic rival, and the trends favor continued U.S. dominance. Therefore, there are still presently strong indicators, which suggest that despite the rise of China, the US has a good chance of fulfilling the leadership position within that newly designed international architecture.
 
 Most IR theorists did not foresee the end of the Cold War in Eastern Europe, nor the collapse of the Soviet Union, nor the East Asian Crisis, nor Japan’s swift transformation in the 1990s. Therefore, any prediction on whether the US is in decline or not is really hard to make. Will historians look back at the recent global financial crisis as a trigger that shifted economic gravity away from the US, or will it be seen as an opportunity that redefined and rejuvenated America? Only time can tell. For now it seems reasonable to assume that China’s rise will continue, and the US power will endure and not falter.
+
+Bibliography
+
+Beckley, Michael (2011) China’s Century (Cambridge: International Security, 2011)
+
+Cox, Michael (2002) Whatever Happened to American Decline? (London: New Political Economy, 2002)
+
+Cox, Michael (2007) Is the United States in Decline – Again? (Oxford: International Affairs, 2007)
+
+Ferguson, Niall (2008) The Ascent of Money (New York: Penguin, 2008) Ferguson, Niall (2004) Colossus (New York: Penguin, 2011)
+
+Joffe, Josef (2009) The Default Power (New York: Foreign Affairs, 2009) Kissinger, Henry (2011) On China (New York: Penguin, 2011)
+
+Li, David (2011) Does the 21st Century Belong to China? (Toronot: House of Anansi Press, 2011)
+
+Quinn, Adam (2011) The Art of Declining Politely (Oxford: International Affairs, 2011)
+
+Soros, George (2004) The Bubble of American Supremacy (New York: PublicAffairs, 2004)
+
+Zakaria, Fakaria (2009) The Post-American World (New York: W.W. Norton & Company, 2009)
