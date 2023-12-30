@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Working on **[Network](https://network.foundation)**.
+Working on **[Network](https://netxork.com)**.
 
 **[About](/about)**
 <br>
@@ -22,7 +22,7 @@ Extended biography with profile.
 <br>
 Codex with notebooks and writings.
 
-**[Network](/network)**
+**[Network](https://network.foundation)**
 <br>
 Directory of network related projects.
 
