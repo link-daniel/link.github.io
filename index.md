@@ -14,7 +14,7 @@ Working on **[Network](https://network.foundation)**.
 <br>
 More about Link Daniel.
 
-**[Biography](/bio)**
+**[Biography](/biography)**
 <br>
 Extended biography with profile.
 
