@@ -18,18 +18,18 @@ More about Link Daniel.
 <br>
 Extended biography with profile.
 
-**[Codex](/codex)**
+[Codex](/codex)
 <br>
 Codex with notebooks and writings.
 
-**[Network](https://network.foundation)**
+[Network](https://network.foundation)
 <br>
 Directory of network related projects.
 
-**[Library](/library)**
+[Library](/library)
 <br>
 A personal library with collections and curations.
 
-**[Updates](/updates)**
+[Updates](/updates)
 <br>
 Updates about my life and work.
