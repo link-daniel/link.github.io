@@ -16,7 +16,11 @@ More about Link Daniel.
 
 [Biography](/biography)
 <br>
-Extended biography with profile.
+Biography with profile.
+
+[Book](https://book.linkdaniel.org)
+<br>
+Extended biography.
 
 [Codex](/codex)
 <br>
