@@ -10,26 +10,26 @@ layout: home
 
 Working on **Network**.
 
-**About**
+**[About](/about)**
 <br>
 More about Link Daniel.
 
-**Biography**
+**[Biography](/bio)**
 <br>
 Extended biography with profile.
 
-**Codex**
+**[Codex](/codex)**
 <br>
 Codex with notebooks and writings.
 
-**Network**
+**[Network](/network)**
 <br>
 Directory of network related projects.
 
-**Library**
+**[Library](/library)**
 <br>
 A personal library with collections and curations.
 
-**Updates**
+**[Updates](/updates)**
 <br>
 Updates about my life and work.
