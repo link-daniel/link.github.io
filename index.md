@@ -8,13 +8,13 @@
 layout: home
 ---
 
-Working on **[Network](https://netxork.com)**.
+Working on [Network](https://netxork.com).
 
-**[About](/about)**
+[About](/about)
 <br>
 More about Link Daniel.
 
-**[Biography](/biography)**
+[Biography](/biography)
 <br>
 Extended biography with profile.
 
