@@ -20,7 +20,7 @@ Brief biography with profile.
 
 [Codex](/codex)
 <br>
-Codex with notebooks and writings.
+Codex with research, publications and essays.
 
 [Network](https://network.foundation)
 <br>
@@ -28,15 +28,7 @@ The foundation for the network.
 
 [Library](/library)
 <br>
-A personal library with collections and curations.
-
-[Publications](/publications)
-<br>
-Published works.
-
-[Research](/research)
-<br>
-Highlighted body of research.
+Personal collections and curations.
 
 [Wiki](https://wiki.linkdaniel.org)
 <br>
