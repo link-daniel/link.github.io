@@ -16,10 +16,6 @@ Thoughts from Peter Thiel on culture, religion and technology
 <br>
 Essay on virtual dreams
 
-[A Virtual Dream And Brain Computer Protocol](/network)
-<br>
-Network Whitepaper
-
 [The Future is Networked](/futurenetworked)
 <br>
 Essay on the crypto-economic paradigm
@@ -31,11 +27,6 @@ Essay on definite optimism
 [The Rise of Networks](/riseofnetworks)
 <br>
 Essay on networks vs hierarchies
-
-[Rule Over Self](/ruleoverself)
-<br>
-Book with mental models to become a better learner, thinker and doer
-<br>
 
 [How I Escaped My Prison](/thinkerprison)
 <br>
