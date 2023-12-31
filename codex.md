@@ -24,10 +24,6 @@ Essay on networks vs hierarchies
 <br>
 A playbook to make you a better thinker
 
-[Possibilities](/possibilities)
-<br>
-Speech at Harvard Kennedy School on the theme of opportunities
-
 [Innovation Globalized](/innovationglobalized)
 <br>
 Thesis on how innovation will be globalized
