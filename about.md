@@ -16,7 +16,7 @@ I'm building Network, a startup dedicated to dream exploration technologies. I'm
 
 [**Biography**](/biography)
 <br>
-Brief life history with profile.
+Brief biography.
 
 <a href="https://wiki.linkdaniel.org">Wiki</a>
 <br>
