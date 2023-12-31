@@ -26,6 +26,10 @@ Personal collections and curations.
 <br>
 Foundation for the network.
 
+[Presentations](/presentations)
+<br>
+Public speeches and lectures.
+
 [Publications](/publications)
 <br>
 Published writings.
