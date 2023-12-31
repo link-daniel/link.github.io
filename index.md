@@ -14,9 +14,9 @@ Working on [Network](https://netxork.com).
 <br>
 About Link Daniel.
 
-[Essay](/essay)
+[Essays](/essays)
 <br>
-Public writings and essays.
+Collection of writings.
 
 [Codex](/codex)
 <br>
