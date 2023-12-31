@@ -4,12 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-**CV**
+[Lucid Dreaming / Dream Yoga Resources](/dreams)
 <br>
-<a href="https://read.cv/linkdaniel">View</a>
-
-**Headshots:**
-<br>
-<a href="https://github.com/linkdniel/link.github.io/blob/main/media/linkdaniel-round.png?raw=true">Round</a>
-<br>
-<a href="https://github.com/linkdniel/link.github.io/blob/main/media/linkdaniel-square.jpg?raw=true">Square</a>
+A list of resources on lucid dreaming and dream yoga
