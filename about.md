@@ -6,9 +6,9 @@ permalink: /about/
 
 Hello, World! This is my web home and directory from which you can find things related to my life and work.
 
-I'm building Network, a brain computer network to create neural interface powered dreams in order to empower individuals to discover alternative states of mind and by returning to reality break free from infinite loops and realize their dreams. I'm exploring the mind as an undiscovered world and how two-way feedback loops between brains and computers are going to create a frontier of exploration.
+I'm building Network, a startup dedicated to dream exploration technologies. I'm exploring the mind as an undiscovered world and how two-way feedback loops between brains and computers are going to create a frontier of exploration.
 
-From here you can visit my codex, browse through my writing, essays, sketches and notebooks.
+On this page you can visit my codex, browse through my writings, essays, sketches and notebooks.
 
 **Contact:**
 <br>
