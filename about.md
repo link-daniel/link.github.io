@@ -11,7 +11,9 @@ I'm building Network, a brain computer network to create neural interface powere
 From here you can visit my codex, browse through my writing, essays, sketches and notebooks.
 
 **Contact:**
+<br>
 [X](https://x.com/linkd)
+<br>
 [Telegram](https://t.me/linkdaniel)
 
 [**Biography**](/biography)
