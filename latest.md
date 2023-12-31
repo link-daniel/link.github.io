@@ -4,9 +4,12 @@ title: Latest
 permalink: /latest/
 ---
 
-{% assign page_start = 2 %}
-{% assign page_end = paginator.total_pages %}
-
-{% for index in (page_start..page_end) %}
-  {{ site.paginate_path | replace: ':num', index | relative_url }}
-{% endfor %}
+<h1 class="entry-title">
+    <a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a>
+</h1>
+{% if post.title %}
+  <h1 class="entry-title">
+    <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+  </h1>      
+{% endif %}
+<div class="entry-content">{{ content }}</div>
