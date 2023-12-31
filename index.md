@@ -14,9 +14,13 @@ Working on [Network](https://netxork.com).
 <br>
 About Link Daniel.
 
+[Essay](/essay)
+<br>
+Public writings and essays.
+
 [Codex](/codex)
 <br>
-Public notes and essays.
+Raw notes and sketches.
 
 [Library](/library)
 <br>
