@@ -4,10 +4,6 @@ title: Codex
 permalink: /codex/
 ---
 
-[Lucid Dreaming / Dream Yoga Resources](/dreams)
-<br>
-A list of resources on lucid dreaming and dream yoga
-
 [Notes on culture, religion and technology](/lincolnthiel)
 <br>
 Thoughts from Peter Thiel on culture, religion and technology
