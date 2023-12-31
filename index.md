@@ -16,11 +16,11 @@ About Link Daniel.
 
 [Codex](/codex)
 <br>
-Essays, publications and research.
+Published notebooks.
 
 [Network](https://network.foundation)
 <br>
-The foundation for the network.
+Foundation for the network.
 
 [Library](/library)
 <br>
