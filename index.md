@@ -18,10 +18,6 @@ More about Link Daniel.
 <br>
 Biography with profile.
 
-[Book](https://book.linkdaniel.org)
-<br>
-Extended biography.
-
 [Codex](/codex)
 <br>
 Codex with notebooks and writings.
@@ -37,3 +33,7 @@ A personal library with collections and curations.
 [Updates](/updates)
 <br>
 Updates about my life and work.
+
+[Wiki](https://wiki.linkdaniel.org)
+<br>
+Extended biography.
