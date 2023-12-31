@@ -69,6 +69,6 @@ Link is an artist, scientist and architect. He is a self-taught programmer and h
 
 **Headshots:**
 <br>
-<a href="https://github.com/linkdniel/link.github.io/blob/main/media/linkdaniel-round.jpg?raw=true">Round</a>
+<a href="https://github.com/linkdniel/link.github.io/blob/main/media/linkdaniel-round.png?raw=true">Round</a>
 <br>
 <a href="https://github.com/linkdniel/link.github.io/blob/main/media/linkdaniel-square.jpg?raw=true">Square</a>
