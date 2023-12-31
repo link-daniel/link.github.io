@@ -10,7 +10,9 @@ I'm building Network, a brain computer network to create neural interface powere
 
 From here you can visit my codex, browse through my writing, essays, sketches and notebooks.
 
-On this [About.me](https://about.me/linkdaniel) page you can find all the ways to connect with me on social media. I'm on [X](https://twitter.com/linkd) and [Telegram](https://t.me/linkdaniel) the most.
+**Contact:**
+[X](https://x.com/linkd)
+[Telegram](https://t.me/linkdaniel)
 
 [**Biography**](/biography)
 <br>
