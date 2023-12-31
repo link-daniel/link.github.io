@@ -12,3 +12,10 @@ From here you can visit my codex, browse through my writing, essays, sketches an
 
 On this [About.me](https://about.me/linkdaniel) page you can find all the ways to connect with me on social media. I'm on [X](https://twitter.com/linkd) and [Telegram](https://t.me/linkdaniel) the most.
 
+[**Biography**](/biography)
+<br>
+Brief life history with profile.
+
+<a href="https://wiki.linkdaniel.org>Wiki</a>
+<br>
+Extended biography.
