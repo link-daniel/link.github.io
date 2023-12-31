@@ -14,23 +14,22 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: linkd
-    x: linkd
+    # twitter: linkd
     # github:  linkdniel
     # devto: jekyll
     # dribbble: jekyll
-    facebook: linkxdaniel
-    flickr:   linkdaniel
-    instagram: linkxdaniel
-    linkedin: linkn
+    # facebook: linkxdaniel
+    # flickr:   linkdaniel
+    # instagram: linkxdaniel
+    # linkedin: linkn
     # pinterest: jekyll
-    youtube: @linkdaniel
+    # youtube: @linkdaniel
     # youtube_channel: /@linkdaniel
     # youtube_channel_name: CloudCannon
-    telegram: linkdaniel
+    # telegram: linkdaniel
     # googleplus: +jekyll
     # microdotblog: jekyll
-    keybase: linkdaniel
+    # keybase: linkdaniel
 
     # Mastodon instances
     # mastodon:
