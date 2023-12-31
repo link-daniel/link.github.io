@@ -22,7 +22,7 @@ Brief biography.
 <br>
 [Headshots Round](/media/linkdaniel-round.jpg)
 <br>
-[Headshots Round](/media/linkdaniel-square.jpg)
+[Headshots Square](/media/linkdaniel-square.jpg)
 
 <a href="https://wiki.linkdaniel.org">Wiki</a>
 <br>
