@@ -24,15 +24,19 @@ Codex with notebooks and writings.
 
 [Network](https://network.foundation)
 <br>
-Directory of network related projects.
+The foundation for the network.
 
 [Library](/library)
 <br>
 A personal library with collections and curations.
 
-[Updates](/updates)
+[Publications](/publications)
 <br>
-Updates about my life and work.
+Published works.
+
+[Research](/research)
+<br>
+Highlighted body of research.
 
 [Wiki](https://wiki.linkdaniel.org)
 <br>
