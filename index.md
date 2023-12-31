@@ -18,10 +18,14 @@ About Link Daniel.
 <br>
 Published notebooks.
 
+[Library](/library)
+<br>
+Personal collections and curations.
+
 [Network](https://network.foundation)
 <br>
 Foundation for the network.
 
-[Library](/library)
+[Publications](/publications)
 <br>
-Personal collections and curations.
+Published works and research.
