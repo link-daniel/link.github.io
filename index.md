@@ -33,3 +33,7 @@ Published writings.
 [Research](/research)
 <br>
 Research repository.
+
+[Resources](/resources)
+<br>
+Useful resources.
