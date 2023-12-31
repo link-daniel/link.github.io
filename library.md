@@ -7,7 +7,7 @@ permalink: /library/
 
 <a href="https://www.goodreads.com/review/list/95737422?shelf=read&sort=date_added">Goodreads Bookshelf</a>
 <br>
-List of books reads.
+List of books read and want to read.
 
 <a href="https://maps.app.goo.gl/vmtWzydsvTrD4k5t5">Google Maps Places Visited</a>
 <br>
@@ -17,7 +17,7 @@ List of places visited on Earth.
 <br>
 List of movies watched.
 
-<a href="https://google.com">Art Collection</a>
+<a href="https://photos.app.goo.gl/Yk3KEZGj9Dd2FnDe9">Art Collection</a>
 <br>
 Album of favorite paintings and photos.
 
