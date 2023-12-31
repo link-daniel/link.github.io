@@ -45,3 +45,5 @@ Research repository.
 [Resources](/resources)
 <br>
 Useful resources.
+
+<a href="https://x.com/linkd">x</a>
