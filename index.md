@@ -16,7 +16,7 @@ About Link Daniel.
 
 [Codex](/codex)
 <br>
-Published notebooks.
+Public notes and essays.
 
 [Library](/library)
 <br>
@@ -28,4 +28,8 @@ Foundation for the network.
 
 [Publications](/publications)
 <br>
-Published works and research.
+Published writings.
+
+[Research](/research)
+<br>
+Research repository.
