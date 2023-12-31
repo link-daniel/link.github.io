@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Index
-permalink: /index/
+title: Directory
+permalink: /directory/
 ---
 
-Index
