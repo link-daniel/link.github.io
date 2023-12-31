@@ -50,6 +50,7 @@ minima:
 header_pages:
  - about.md
  - codex.md
+ - x.md
 
 # Build settings
 theme: minima
