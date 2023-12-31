@@ -8,7 +8,7 @@ Hello, World! This is my web home and directory from which you can find things r
 
 I'm building Network, a startup dedicated to dream exploration technologies. I'm exploring the mind as an undiscovered world and how two-way feedback loops between brains and computers are going to create a frontier of exploration.
 
-**Contact:**
+**Contact**
 <br>
 [X](https://x.com/linkd)
 <br>
