@@ -16,7 +16,7 @@ More about Link Daniel.
 
 [Biography](/biography)
 <br>
-Life history with profile.
+Brief life history with profile.
 
 [Codex](/codex)
 <br>
