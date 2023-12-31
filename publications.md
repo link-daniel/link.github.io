@@ -12,3 +12,7 @@ Network Whitepaper
 <br>
 Book with mental models to become a better learner, thinker and doer
 <br>
+
+[Artificial Inquisition](/artificialinquisition)
+Winning essay for St. Gallen Symposium (2015)
+
