@@ -28,14 +28,6 @@ A playbook to make you a better thinker
 <br>
 Speech at Harvard Kennedy School on the theme of opportunities
 
-[Pensive Series](/pensive)
-<br>
-Engage thinkers and doers philosophically
-
-[Conversations](/conversations)
-<br>
-Conversations with leading founders and thinkers
-
 [Innovation Globalized](/innovationglobalized)
 <br>
 Thesis on how innovation will be globalized
