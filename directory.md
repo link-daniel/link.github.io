@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Directory
-permalink: /directory/
+title: Index
+permalink: /index/
 ---
 
-Directory
+Index
