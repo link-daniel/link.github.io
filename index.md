@@ -16,11 +16,11 @@ More about Link Daniel.
 
 [Biography](/biography)
 <br>
-Brief biography with profile.
+Life history with profile.
 
 [Codex](/codex)
 <br>
-Codex with research, publications and essays.
+Essays, publications and research.
 
 [Network](https://network.foundation)
 <br>
