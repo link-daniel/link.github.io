@@ -18,6 +18,12 @@ I'm building Network, a startup dedicated to dream exploration technologies. I'm
 <br>
 Brief biography.
 
+<a href="https://read.cv/linkdaniel">CV</a>
+<br>
+[Headshots Round](/media/linkdaniel-round.jpg)
+<br>
+[Headshots Round](/media/linkdaniel-square.jpg)
+
 <a href="https://wiki.linkdaniel.org">Wiki</a>
 <br>
 Extended biography.
