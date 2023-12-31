@@ -4,10 +4,6 @@ title: Codex
 permalink: /codex/
 ---
 
-[Notes on culture, religion and technology](/lincolnthiel)
-<br>
-Thoughts from Peter Thiel on culture, religion and technology
-
 [On virtual dreams](/virtualdreams)
 <br>
 Essay on virtual dreams
