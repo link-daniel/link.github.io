@@ -20,16 +20,16 @@ minima:
     # dribbble: jekyll
     # facebook: linkxdaniel
     # flickr:   jekyll
-    # instagram: linkxdaniel
-    # linkedin: linkn
+    instagram: linkxdaniel
+    linkedin: linkn
     # pinterest: jekyll
     # youtube: jekyll
-    # youtube_channel: 
+    youtube_channel: /@linkdaniel
     # youtube_channel_name: CloudCannon
     telegram: linkdaniel
     # googleplus: +jekyll
     # microdotblog: jekyll
-    # keybase: jekyll
+    keybase: linkdaniel
 
     # Mastodon instances
     # mastodon:
