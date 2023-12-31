@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[A Virtual Dream And Brain Computer Protocol](/network)
+[A Virtual Dream And Brain Computer Protocol](/networkwhitepaper)
 <br>
 Network Whitepaper
 
