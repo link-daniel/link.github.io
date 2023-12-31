@@ -4,12 +4,6 @@ title: Essays
 permalink: /essays/
 ---
 
----
-layout: page
-title: Essays
-permalink: /essays/
----
-
 [On virtual dreams](/virtualdreams)
 <br>
 Essay on virtual dreams
