@@ -7,6 +7,8 @@ tags:
 
 A World of Warcraft guild I founded. Below some videos I created during some instance raids.
 
+https://x.com/linkd/status/1742053144237113542
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u4c6R76s5pE?si=dgf8swJl1xj5Qqtt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
