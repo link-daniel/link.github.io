@@ -34,6 +34,10 @@ Foundation for the network.
 <br>
 Public speeches and lectures.
 
+[Projects](/projects)
+<br>
+Various ventures.
+
 [Publications](/publications)
 <br>
 Published writings.
