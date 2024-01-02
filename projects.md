@@ -10,7 +10,7 @@ Short film of raids by WoW guild.
 
 [Conversations](/conversations)
 <br>
-Conversations with leading founders and thinkers.
+Conversations with founders and thinkers.
 
 [Pensive Series](/pensive)
 <br>
