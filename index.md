@@ -10,10 +10,6 @@ layout: home
 
 Working on [Network](https://netxork.com).
 
-[About](/about)
-<br>
-About Link Daniel.
-
 [Essays](/essays)
 <br>
 Collection of writings.
