@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "When Artificial Intelligence Meets Reality"
+title:  "The Future is Decentralized"
 categories: 
 tags: 
 ---
