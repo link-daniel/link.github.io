@@ -11,4 +11,16 @@ A World of Warcraft guild I founded. Below some videos I created during some ins
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Ov13hAYQds?si=iZsa7RFaJcKJd0D7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6XlAPw9QYGY?si=2echy1o6CSrB6unC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQO75DzqlD8?si=2mKsh-I4JKLtg0J2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3YJFJ-hOctY?si=O8w1u4R2d5x_Hard" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oj5s3lxYFkY?si=I4GmB6crJzBH7yqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
