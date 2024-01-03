@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Dreaming of Reality with Lama Alan Wallace – Day 1 Session 1
-"
+title:  "Dreaming of Reality with Lama Alan Wallace"
 categories: 
 tags: 
 ---
