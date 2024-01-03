@@ -5,13 +5,22 @@ categories:
 tags:
 ---
 
+
+**Dream Yoga Retreats**
+<br>
+
+[Dreaming of Reality with Lama Alan Wallace](/wallacedreamyoga)
+<br>
+During this retreat, Lama Alan Wallace discusses the connection between lucid dreaming and dream yoga, elucidating presentations of the dream-like nature of reality through all the schools of Buddhist philosophy, culminating in the Great Perfection. In addition, he teaches the daytime and nighttime practices of dream yoga.
+
+
 This is a list of resources on lucid dreaming and dream yoga.
 
 [Book List](https://www.goodreads.com/review/list/95737422-link-daniel?ref=nav_mybooks&shelf=dreams)
 <br>
 All the books I've read about lucid dreaming and dream yoga saved on Goodreads.
 
-[Community List](https://docs.google.com/spreadsheets/d/1Npe47WoNQHJvCvelLL6Duq9wOfdOuSb4lR2FF1cBeCI/edit#gid=1273246878)
+[Community List](/dreamgroups)
 <br>
 A list of lucid dreaming / dream yoga communities, both internet and offline.
 
@@ -19,7 +28,7 @@ A list of lucid dreaming / dream yoga communities, both internet and offline.
 <br>
 A selection of films on the topic of dreams saved on imdb.
 
-[Teachers List](https://docs.google.com/spreadsheets/d/1Npe47WoNQHJvCvelLL6Duq9wOfdOuSb4lR2FF1cBeCI/edit?usp=sharing)
+[Teachers List](/dreamteachers)
 <br>
 A list of dream teachers and workshops they teach.
 
@@ -27,6 +36,3 @@ A list of dream teachers and workshops they teach.
 <br>
 A series of lectures and videos on lucid dreaming and dream yoga saved on YouTube.
 
-[Workshop List](https://docs.google.com/spreadsheets/d/1Npe47WoNQHJvCvelLL6Duq9wOfdOuSb4lR2FF1cBeCI/edit#gid=14572024)
-<br>
-Upcoming workshops, courses, meetups and programs on lucid dreaming and dream yoga.
