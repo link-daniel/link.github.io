@@ -8,22 +8,13 @@ tags:
 | Group                  | Host   |  
 | --------                 | -------     |
 | <a href="https://network.foundation/community">Network Community  </a>        | Network    | 
-| Eckhart Tolle            | Lucid dreaming videos      |
-| Alan Wallace             | Dream Yourself Awake       |
-| Robert Waggoner          | 2 books, 1000 reported LDs   | 
-| Tenzin Wangyal          | The Tibetan Yogas of Dream and Sleep   | 
-| Stephen LaBerge         | US lucid dream scientist since 1970s   | 
-| Keith Hearne         | UK lucid dream scientist since 1970s   | 
-| Andrew Holocek        | Dream Yoga, Dream Light, The Lucid Dreaming Workbook   | 
-| Namkhai Norbu        | Dream Yoga and the Practice of the Natural Light   | 
-| Lama Lena        | Dream Yoga Workshop   | 
-| Stephen Altair         |   | 
-| Lana Sackwild         | PhD thesis on LD and depression   | 
-| Stephen Altair         | US lucid dream scientist since 1970s   | 
-| Dr Clare Johnson         | First person to write PhD on LD creativity   | 
-| Charlie Morley        | UK lucid dream teacher and researcher  | 
-| Traleg Rinpoche        |    | 
-| Marcy Vaughn        | Tenzin Wangyal   | 
+| <a href="https://community.nightclub.andrewholecek.com/latest">Night Club  </a>           | Andrew Holocek     |
+| <a href="https://cybersangha.net/online-communities/">Cyber Sanga  </a>           | Tenzin Wangyal Rinpoche       |
+| <a href="https://techfordreaming.com">Tech for Dreaming  </a>           | Brian Gilan       |
+| <a href="https://www.reddit.com/r/LucidDreaming/">Lucid Dreaming Subreddit  </a>           | Reddit       |
+| <a href="https://www.facebook.com/groups/luciddreamingandliving">Lucid Dreaming & Living  </a>           | Lana Sackwild       |
+| <a href="https://www.facebook.com/profile.php?id=100063315752513">Tibetan Dream Yoga  </a>           | Michael Katz       |
+| <a href="https://lamalenateachings.com/teaching-schedule/">Dream Yoga  </a>           | Lama Lena       |
 
 
 <br> 
