@@ -14,7 +14,8 @@ tags:
 During this retreat, Lama Alan Wallace discusses the connection between lucid dreaming and dream yoga, elucidating presentations of the dream-like nature of reality through all the schools of Buddhist philosophy, culminating in the Great Perfection. In addition, he teaches the daytime and nighttime practices of dream yoga.
 
 
-This is a list of resources on lucid dreaming and dream yoga.
+**Lucid Dreaming / Dream Yoga Resources**
+<br>
 
 [Book List](https://www.goodreads.com/review/list/95737422-link-daniel?ref=nav_mybooks&shelf=dreams)
 <br>
