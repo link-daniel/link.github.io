@@ -5,8 +5,6 @@ categories:
 tags:
 ---
 
-
-<br>
 [Dreaming of Reality with Lama Alan Wallace](/wallacedreamyoga)
 <br>
 During this retreat, Lama Alan Wallace discusses the connection between lucid dreaming and dream yoga, elucidating presentations of the dream-like nature of reality through all the schools of Buddhist philosophy, culminating in the Great Perfection. In addition, he teaches the daytime and nighttime practices of dream yoga.
