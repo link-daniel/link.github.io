@@ -41,7 +41,5 @@ A series of lectures and videos on lucid dreaming and dream yoga saved on YouTub
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=X-4ZGrE6znQ8XZeq&amp;list=PL3IOQtA2di8PQNdPo2_FVaBlhVkb5PUXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<br>
-
 [WikiBooks Lucid Dreaming Guide](https://en.wikibooks.org/wiki/Lucid_Dreaming)
 <br>
