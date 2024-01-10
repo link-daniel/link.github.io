@@ -19,7 +19,7 @@ During this retreat, Lama Alan Wallace discusses the connection between lucid dr
 
 **Lucid Dreaming / Dream Yoga Lists**
 
-[Academic Papers List](https://www.zotero.org/linkdaniel/)
+[Academic Papers List](https://www.zotero.org/linkdaniel/collections/4SDA6EXF)
 <br>
 A selection of scientific papers on the topic of dreams.
 
