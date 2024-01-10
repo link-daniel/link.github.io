@@ -19,10 +19,6 @@ During this retreat, Lama Alan Wallace discusses the connection between lucid dr
 
 **Lucid Dreaming / Dream Yoga Lists**
 
-[Academic Papers List](https://www.zotero.org/linkdaniel/collections/4SDA6EXF)
-<br>
-A selection of scientific papers on the topic of dreams.
-
 [Book List](https://www.goodreads.com/review/list/95737422-link-daniel?ref=nav_mybooks&shelf=dreams)
 <br>
 All the books I've read about lucid dreaming and dream yoga saved on Goodreads.
@@ -34,6 +30,10 @@ A list of lucid dreaming / dream yoga communities, both internet and offline.
 [Film List](https://www.imdb.com/list/ls083385013/)
 <br>
 A selection of films on the topic of dreams saved on imdb.
+
+[Papers List](https://www.zotero.org/linkdaniel/collections/4SDA6EXF)
+<br>
+A selection of scientific papers on the topic of dreams.
 
 [Teachers List](/dreamteachers)
 <br>
