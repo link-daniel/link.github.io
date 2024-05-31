@@ -21,6 +21,10 @@ Book with mental models to become a better learner, thinker and doer
 <br>
 Essay on the crypto-economic paradigm
 
+[Notes on culture, religion and technology](/lincolnthiel)
+<br>
+Thoughts from Peter Thiel on culture, religion and technology
+
 [The Definite Optimist](/definiteoptimist)
 <br>
 Essay on definite optimism
