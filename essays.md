@@ -8,6 +8,15 @@ permalink: /essays/
 <br>
 Essay on virtual dreams
 
+[A Virtual Dream And Brain Computer Protocol](/networkwhitepaper)
+<br>
+Network Whitepaper
+
+[Rule Over Self](/ruleoverself)
+<br>
+Book with mental models to become a better learner, thinker and doer
+<br>
+
 [The Future is Networked](/futurenetworked)
 <br>
 Essay on the crypto-economic paradigm
@@ -23,6 +32,10 @@ Essay on networks vs hierarchies
 [How I Escaped My Prison](/thinkerprison)
 <br>
 A playbook to make you a better thinker
+
+[Artificial Inquisition](/artificialinquisition)
+<br>
+Winning essay for St. Gallen Symposium (2015)
 
 [Innovation Globalized](/innovationglobalized)
 <br>
