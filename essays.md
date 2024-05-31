@@ -21,6 +21,10 @@ Book with mental models to become a better learner, thinker and doer
 <br>
 Essay on the crypto-economic paradigm
 
+[Conversations](/conversations)
+<br>
+Conversations with founders and thinkers.
+
 [Notes on culture, religion and technology](/lincolnthiel)
 <br>
 Thoughts from Peter Thiel on culture, religion and technology
@@ -32,6 +36,10 @@ Essay on definite optimism
 [The Rise of Networks](/riseofnetworks)
 <br>
 Essay on networks vs hierarchies
+
+[Pensive Series](/pensive)
+<br>
+Podcasts of thinkers and doers.
 
 [How I Escaped My Prison](/thinkerprison)
 <br>
