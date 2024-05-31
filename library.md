@@ -24,6 +24,14 @@ List of movies watched.
 <br>
 List of places visited on Earth.
 
+[Lucid Dreaming / Dream Yoga Resources](/dreams)
+<br>
+A list of resources on lucid dreaming and dream yoga
+
+[Tibetan Buddhism](/tibetanbuddhism)
+<br>
+A list of resources on tibetan buddhism
+
 
 
 
