@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Link Daniel Index
+title: Index
 permalink: /index/
 ---
 
