@@ -12,6 +12,14 @@ Speech at Harvard Kennedy School on the theme of opportunities
 <br>
 Talk given at Stanford University for Stanford Digital Shapers society in early 2017.
 
+[Conversations](/conversations)
+<br>
+Conversations with founders and thinkers.
+
+[Pensive Series](/pensive)
+<br>
+Podcasts of thinkers and doers.
+
 [Presence](/presence)
 <br>
 Short film on presence.
