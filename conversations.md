@@ -12,7 +12,16 @@ Below is a list of conversations I've had with founders and thinkers either dire
 [A Conversation With Bryan Johnson](/bryanjohnson)
 <br>
 
+[A Conversation With Ryan Holiday](/ryanholiday)
+<br>
+
+[A Conversation With Sebastian Thrun](/sebastianthrun)
+<br>
+
 [An Afternoon With Jack Dorsey](/jackdorsey)
+<br>
+
+[An Afternoon With Sam Altman](/samaltman)
 <br>
 
 [An Afternoon with Kishore Mahbubani](/kishoremahbubani)
@@ -40,6 +49,9 @@ Below is a list of conversations I've had with founders and thinkers either dire
 <br>
 
 [A Conversation with Doug Carmichael](/dougcarmichael)
+<br>
+
+[A Conversation with Robert Johnson](/robertjohnson)
 <br>
 
 
