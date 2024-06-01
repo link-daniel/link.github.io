@@ -18,6 +18,9 @@ Below is a list of conversations I've had with founders and thinkers either dire
 [An Afternoon with Kishore Mahbubani](/kishoremahbubani)
 <br>
 
+[An Afternoon with Madeleine Albright](/madeleinealbright)
+<br>
+
 [An Afternoon with Jimmy Carter](/jimmycarter)
 <br>
 
@@ -33,9 +36,6 @@ Below is a list of conversations I've had with founders and thinkers either dire
 [A Conversation with Doug Carmichael](/dougcarmichael)
 <br>
 
-
-
-kishoremahbubani
 
 
 
