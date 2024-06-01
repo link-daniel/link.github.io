@@ -11,6 +11,9 @@ layout: home
 [Dilgo Khyentse on the importance of taming your mind](/khyentsetamemind)
 <br>
 
+[Dreaming of Reality with Lama Alan Wallace](/wallacedreamyoga)
+<br>
+
 [Lucid Dreaming / Dream Yoga Resources](/dreams)
 <br>
 
