@@ -21,6 +21,9 @@ Below is a list of conversations I've had with founders and thinkers either dire
 [An Afternoon with Madeleine Albright](/madeleinealbright)
 <br>
 
+[An Afternoon with Peter Lynch](/peterlynch)
+<br>
+
 [An Afternoon with Jimmy Carter](/jimmycarter)
 <br>
 
