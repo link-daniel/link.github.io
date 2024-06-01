@@ -80,6 +80,9 @@ layout: home
 [John Locke's theory of natural rights](/locketheories)
 <br>
 
+[Rebel With A Cause - An Introduction to Voltaire](/voltaire)
+<br>
+
 [A Brief Biography of Niccolo Machiavelli](/machiavellibio)
 <br>
 
@@ -90,6 +93,9 @@ layout: home
 <br>
 
 [Reflexivity in Financial Markets](/reflexivity)
+<br>
+
+[The Art of the Unsent Email](/unsentemail)
 <br>
 
 [Lost in Translation](/lostintranslation)
