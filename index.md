@@ -66,7 +66,10 @@ layout: home
 <br>
 
 [Give Me Your Dreamers That Are Searching For Purpose](/givemeyourdreamers)
+<br>
 
+[John Locke's theory of natural rights](/locketheories)
+<br>
 
 [Innovation Globalized](/innovationglobalized)
 <br>
