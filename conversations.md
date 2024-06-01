@@ -21,7 +21,7 @@ Below is a list of conversations I've had with founders and thinkers either dire
 [An Afternoon with Jimmy Carter](/jimmycarter)
 <br>
 
-[A Conversation with Jack Welch](/jackwelch)
+[An Afternoon with Jack Welch](/jackwelch)
 <br>
 
 [An Afternoon with Larry Summers](/larrysummers)
