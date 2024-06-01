@@ -6,6 +6,6 @@ tags:
 ---
 
 
-[Dilgo Khyentse Rinpoche](/dilgokhyentse)
+[Dilgo Khyentse Rinpoche](/khyentsetamemind)
 <br>
 Resources about Dilgo Khyentse Rinpoche.
