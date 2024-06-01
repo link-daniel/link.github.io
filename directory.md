@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Index
-permalink: /index/
+title: Directory
+permalink: /directory/
 ---
 
 Working on [Network](https://netxork.com).
