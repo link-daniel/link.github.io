@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Presence"
+title:  "Presence: A Short Film Series"
 categories: 
 tags: 
 ---
-
-### Presence: A Short Film Series
 
 ![](https://cdn-images-1.medium.com/max/1600/1*cJfz-STRKySxzsJEId8n5Q.jpeg)
 
