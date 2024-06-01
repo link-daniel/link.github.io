@@ -8,44 +8,58 @@
 layout: home
 ---
 
-Working on [Network](https://netxork.com).
-
-[About](/about)
+[Lucid Dreaming / Dream Yoga Resources](/dreams)
 <br>
-More about Link Daniel.
 
-[Essays](/essays)
+[Tibetan Buddhism Resources](/tibetanbuddhism)
 <br>
-Collection of writings.
 
-[Codex](/codex)
+[On virtual dreams](/virtualdreams)
 <br>
-Raw notes and sketches.
 
-[Library](/library)
+[A Virtual Dream And Brain Computer Protocol](/networkwhitepaper)
 <br>
-Personal collections and curations.
 
-[Network](https://network.foundation)
+[Rule Over Self Book](/ruleoverself)
 <br>
-Foundation for the network.
 
-[Presentations](/presentations)
+[The Future is Networked](/futurenetworked)
 <br>
-Public speeches and lectures.
 
-[Projects](/projects)
+[Notes on culture, religion and technology](/lincolnthiel)
 <br>
-Various ventures.
 
-[Publications](/publications)
+[The Definite Optimist](/definiteoptimist)
 <br>
-Published writings.
 
-[Research](/research)
+[The Rise of Networks](/riseofnetworks)
 <br>
-Research repository.
 
-[Resources](/resources)
+[How I Escaped My Prison](/thinkerprison)
 <br>
-Useful resources.
+
+[Artificial Inquisition](/artificialinquisition)
+<br>
+
+[Innovation Globalized](/innovationglobalized)
+<br>
+
+[Reflexivity in Financial Markets](/reflexivity)
+<br>
+
+<a href="https://photos.app.goo.gl/Yk3KEZGj9Dd2FnDe9">Art Collection</a>
+<br>
+
+<a href="https://www.goodreads.com/review/list/95737422?shelf=read&sort=date_added">Bookshelf</a>
+<br>
+
+<a href="https://www.imdb.com/list/ls567765043">Games Played</a>
+<br>
+
+<a href="https://www.imdb.com/user/ur85826373/watchlist?sort=date_added%2Cdesc&view=detail">Movies Watched</a>
+<br>
+
+<a href="https://maps.app.goo.gl/vmtWzydsvTrD4k5t5">Places Visited</a>
+<br>
+
+
