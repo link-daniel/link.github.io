@@ -30,5 +30,5 @@ Conversation with Bryan Johnson, founder of Venmo, Kernel and OS Fund
 [A Conversation with Arianna Huffington](/ariannahuffington)
 <br>
 
-[A Conversation with Arianna Huffington](/ariannahuffington)
+[A Conversation with Doug Carmichael](/dougcarmichael)
 <br>
