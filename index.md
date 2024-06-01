@@ -8,6 +8,9 @@
 layout: home
 ---
 
+[Dilgo Khyentse](/dilgokhyentse)
+<br>
+
 [Lucid Dreaming / Dream Yoga Resources](/dreams)
 <br>
 
@@ -63,6 +66,9 @@ layout: home
 <br>
 
 [Ascent Guild Raid Videos](/ascentguild)
+<br>
+
+[The Wealth of Nations: An Introduction to Adam Smith](/adamsmith)
 <br>
 
 <a href="https://photos.app.goo.gl/Yk3KEZGj9Dd2FnDe9">Art Collection</a>
