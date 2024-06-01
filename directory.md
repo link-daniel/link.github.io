@@ -4,8 +4,6 @@ title: Directory
 permalink: /directory/
 ---
 
-Working on [Network](https://netxork.com).
-
 [About](/about)
 <br>
 More about Link Daniel.
