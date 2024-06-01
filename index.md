@@ -8,7 +8,7 @@
 layout: home
 ---
 
-[Dilgo Khyentse](/dilgokhyentse)
+[Dilgo Khyentse on the importance of taming your mind](/khyentsetamemind)
 <br>
 
 [Lucid Dreaming / Dream Yoga Resources](/dreams)
@@ -51,6 +51,9 @@ layout: home
 <br>
 
 [Possibilities Speech](/possibilities)
+<br>
+
+[On The Edge Of A New Frontier](/edgenewfrontier)
 <br>
 
 [Artificial Inquisition](/artificialinquisition)
