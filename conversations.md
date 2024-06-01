@@ -24,6 +24,9 @@ Below is a list of conversations I've had with founders and thinkers either dire
 [An Afternoon With Sam Altman](/samaltman)
 <br>
 
+[An Afternoon with Vinod Khosla](/vinodkhosla)
+<br>
+
 [An Afternoon with Kishore Mahbubani](/kishoremahbubani)
 <br>
 
