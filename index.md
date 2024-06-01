@@ -65,16 +65,31 @@ layout: home
 [Presence Short Films](/presence)
 <br>
 
+[A Nation of Immigrants](/nationimmigrants)
+<br>
+
 [Give Me Your Dreamers That Are Searching For Purpose](/givemeyourdreamers)
 <br>
 
+[Lincoln's Legacy](/lincoln)
+<br>
+
 [John Locke's theory of natural rights](/locketheories)
+<br>
+
+[A Brief Biography of Niccolo Machiavelli](/machiavellibio)
+<br>
+
+[The Prince: An Introduction to Niccolo Machiavelli](/machiavelli)
 <br>
 
 [Innovation Globalized](/innovationglobalized)
 <br>
 
 [Reflexivity in Financial Markets](/reflexivity)
+<br>
+
+[Lost in Translation](/lostintranslation)
 <br>
 
 [Ascent Guild Raid Videos](/ascentguild)
