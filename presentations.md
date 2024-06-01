@@ -4,6 +4,9 @@ title: Presentations
 permalink: /presentations/
 ---
 
+<a href="https://youtube.com/@linkdaniel">YouTube Channel</a>
+<br>
+
 [Possibilities](/possibilities)
 <br>
 Speech at Harvard Kennedy School on the theme of opportunities
