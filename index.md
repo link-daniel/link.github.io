@@ -23,7 +23,22 @@ layout: home
 [Rule Over Self Book](/ruleoverself)
 <br>
 
+[The Future is Decentralized Speech](/stanfordshapers) 
+<br>
+
 [The Future is Networked](/futurenetworked)
+<br>
+
+[The Rise of Networks](/riseofnetworks)
+<br>
+
+[Conversations Series](/conversations)
+<br>
+
+[Pensive Podcast Series](/pensive)
+<br>
+
+[How I Escaped My Prison](/thinkerprison)
 <br>
 
 [Notes on culture, religion and technology](/lincolnthiel)
@@ -32,13 +47,13 @@ layout: home
 [The Definite Optimist](/definiteoptimist)
 <br>
 
-[The Rise of Networks](/riseofnetworks)
-<br>
-
-[How I Escaped My Prison](/thinkerprison)
+[Possibilities Speech](/possibilities)
 <br>
 
 [Artificial Inquisition](/artificialinquisition)
+<br>
+
+[Presence Short Films](/presence)
 <br>
 
 [Innovation Globalized](/innovationglobalized)
@@ -47,19 +62,22 @@ layout: home
 [Reflexivity in Financial Markets](/reflexivity)
 <br>
 
+[Ascent Guild Raid Videos](/ascentguild)
+<br>
+
 <a href="https://photos.app.goo.gl/Yk3KEZGj9Dd2FnDe9">Art Collection</a>
 <br>
 
 <a href="https://www.goodreads.com/review/list/95737422?shelf=read&sort=date_added">Bookshelf</a>
 <br>
 
-<a href="https://www.imdb.com/list/ls567765043">Games Played</a>
+<a href="https://www.imdb.com/list/ls567765043">Games Played List</a>
 <br>
 
-<a href="https://www.imdb.com/user/ur85826373/watchlist?sort=date_added%2Cdesc&view=detail">Movies Watched</a>
+<a href="https://www.imdb.com/user/ur85826373/watchlist?sort=date_added%2Cdesc&view=detail">Movies Watched List</a>
 <br>
 
-<a href="https://maps.app.goo.gl/vmtWzydsvTrD4k5t5">Places Visited</a>
+<a href="https://maps.app.goo.gl/vmtWzydsvTrD4k5t5">Places Visited List</a>
 <br>
 
 
