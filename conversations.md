@@ -30,6 +30,9 @@ Below is a list of conversations I've had with founders and thinkers either dire
 [An Afternoon with Larry Summers](/larrysummers)
 <br>
 
+[A Conversation with Max Levchin](/maxlevchin)
+<br>
+
 [An Afternoon with Arianna Huffington](/ariannahuffington)
 <br>
 
