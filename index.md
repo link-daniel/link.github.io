@@ -8,21 +8,25 @@
 layout: home
 ---
 
-Working on Network.
+Working on [Network](https://network.foundation).
 
 [About](/about)
+<br>
 More about Link Daniel.
 
 [Codex](/codex)
-Collection of works.
 <br>
+Collection of works.
 
 [Essays](/essays)
+<br>
 Selection of writings.
 
 [Library](/library)
+<br>
 Personal lists and resources.
 
-[Network](https://network.co.de)
+[Network](https://network.com.de)
+<br>
 Directory of network related projects.
 
