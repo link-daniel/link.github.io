@@ -14,7 +14,7 @@ Context and creator.
 
 [Codex](/codex)
 <br/>
-Body of work.
+Creation.
 
 [Library](/library)
 <br/>
