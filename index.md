@@ -26,7 +26,4 @@ Selection of writings.
 <br/>
 Personal lists and resources.
 
-[Network](https://network.com.de)
-<br/>
-Directory of network projects.
 
