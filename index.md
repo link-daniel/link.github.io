@@ -28,5 +28,5 @@ Personal lists and resources.
 
 [Network](https://network.com.de)
 <br>
-Directory of network related projects.
+Directory of network projects.
 
