@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Working on **Network**.
+Working on [**Network**](/https://network.foundation).
 
 [About](/about)
 <br/>
