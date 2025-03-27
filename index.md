@@ -10,7 +10,11 @@ layout: home
 
 [About](/about)
 <br/>
-Context and creator.
+Context.
+
+[Biography](/biography)
+<br/>
+Creator.
 
 [Codex](/codex)
 <br/>
@@ -18,5 +22,5 @@ Creation.
 
 [Library](/library)
 <br/>
-Lists and resources.
+Resources.
 
