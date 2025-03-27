@@ -16,13 +16,9 @@ Context and creator.
 <br/>
 Body of work.
 
-[Essays](/essays)
-<br/>
-Selection of writings.
-
 [Library](/library)
 <br/>
-Personal lists and resources.
+Lists and resources.
 
 [Research](/research)
 <br/>
