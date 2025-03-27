@@ -20,7 +20,3 @@ Body of work.
 <br/>
 Lists and resources.
 
-[Research](/research)
-<br/>
-Explorations and findings.
-
