@@ -1,6 +1,6 @@
 ---
 layout: page
-title: X
+title: 𝕏
 permalink: /x/
 ---
 
