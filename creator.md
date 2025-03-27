@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Biography
-permalink: /biography/
+title: Creator
+permalink: /creator/
 ---
 
 Link Daniel is the founder and early-stage investor of Network, a virtual dream and brain computer protocol. Network creates neural interface technology and tools for the mind to become free.
@@ -10,7 +10,7 @@ Link is an artist, scientist and architect. He is a self-taught programmer and h
 
 <br>
 
-<img src="/media/linkdaniel-profile.jpg" width="400" height="400"  />
+<img src="/media/linkdaniel-profile.jpg" width="200" height="200"  />
 
 <br>
 
