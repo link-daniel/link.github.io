@@ -20,7 +20,7 @@ Autobiography.
 
 [Codex](/codex)
 <br/>
-Creation.
+Notebooks.
 
 [Collection](/collection)
 <br/>
