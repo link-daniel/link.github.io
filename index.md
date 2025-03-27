@@ -8,6 +8,8 @@
 layout: home
 ---
 
+[𝕏](/https://x.com/linkd)
+
 [About](/about)
 <br/>
 Context.
