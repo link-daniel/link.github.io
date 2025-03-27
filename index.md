@@ -14,9 +14,9 @@ layout: home
 <br/>
 Context.
 
-[Biography](/biography)
+[Creator](/creator)
 <br/>
-Creator.
+Autobiography.
 
 [Codex](/codex)
 <br/>
