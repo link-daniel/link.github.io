@@ -8,15 +8,13 @@
 layout: home
 ---
 
-Working on [**Network**](https://network.foundation).
-
 [About](/about)
 <br/>
-More about Link Daniel.
+Context and creator.
 
 [Codex](/codex)
 <br/>
-Collection of works.
+Body of work.
 
 [Essays](/essays)
 <br/>
@@ -26,4 +24,7 @@ Selection of writings.
 <br/>
 Personal lists and resources.
 
+[Research](/research)
+<br/>
+Explorations and findings.
 
