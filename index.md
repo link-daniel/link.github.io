@@ -11,27 +11,22 @@ layout: home
 Working on [Network](https://network.foundation).
 
 [About](/about)
-<br>
-<br>
+<br/>
 More about Link Daniel.
 
 [Codex](/codex)
-<br>
-<br>
+<br/>
 Collection of works.
 
 [Essays](/essays)
-<br>
-<br>
+<br/>
 Selection of writings.
 
 [Library](/library)
-<br>
-<br>
+<br/>
 Personal lists and resources.
 
 [Network](https://network.com.de)
-<br>
-<br>
+<br/>
 Directory of network projects.
 
