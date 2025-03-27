@@ -10,7 +10,7 @@ Link is an artist, scientist and architect. He is a self-taught programmer and h
 
 <br>
 
-<img src="/media/linkdaniel.jpg" width="300" height="300"  />
+<img src="/media/linkdaniel-square.jpg" width="300" height="300"  />
 
 <br>
 
