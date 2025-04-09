@@ -8,8 +8,6 @@
 layout: home
 ---
 
-[𝕏](https://x.com/linkd)
-
 [About](/about)
 <br/>
 Context.
@@ -29,4 +27,6 @@ Lists.
 [Library](/library)
 <br/>
 Resources.
+
+[𝕏](https://x.com/linkd)
 
