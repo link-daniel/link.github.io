@@ -4,13 +4,15 @@ title: Media
 permalink: /media/
 ---
 
+**Social Media**
+
 <a href="https://x.com/linkd">𝕏</a>
 
 <a href="https://medium.com/@link">Medium</a>
 
 <a href="https://link.substack.com">Blog</a>
 
-<a href="https://about.me/linkdaniel">About.Me Page</a>
+<a href="https://about.me/linkdaniel">About.Me</a>
 
 <br>
 
