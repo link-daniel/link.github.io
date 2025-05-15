@@ -8,7 +8,7 @@ Link Daniel is a German-American artist, scientist, and architect. He is the fou
 
 Daniel holds degrees in financial history, political philosophy, and economics from the London School of Economics and is a Harvard University alumnus. A self-taught programmer, he has advised leading funds in New York and London and was named a Young Scholar at the Institute for New Economic Thinking.
 
-At Harvard Kennedy School, he co-founded a nonprofit focused on governance and technology and briefly worked at the United Nations. After graduate school, he joined the Thiel network, accelerating early-stage technology startups in California. He later conducted independent research at Stanford in neuroscience and longevity. Daniel continues to build technologies that push the boundaries of human potential.
+At Harvard Kennedy School, he co-founded a nonprofit focused on governance and technology and briefly worked at the United Nations. After graduate school, he joined the Thiel network, accelerating early-stage technology startups in California. He later conducted independent research at Stanford in neuroscience and longevity. Daniel continues to build technologies that push the frontier of the human mind.
 
 <br>
 <br>
