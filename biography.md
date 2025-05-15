@@ -4,14 +4,16 @@ title: Biography
 permalink: /biography/
 ---
 
-Link Daniel is the founder and early-stage investor of Network, a virtual dream and brain computer protocol. Network creates neural interface technology and tools for the mind to become free.
+Link Daniel is a German-American artist, scientist and architect. He is the founder and early-stage investor of Network. Link graduated from the London School of Economics and is an alumni of Harvard University. In New York, he advised some of the world’s leading funds and was named a Young Scholar at the Institute for New Economic Thinking. At the Harvard Kennedy School, he co-founded a non-profit at the intersection of governance & technology and he also briefly worked at the United Nations. After graduate school, he joined the Thiel network and accelerated the growth of early-stage technology startups in California. At Stanford, he pursued independent research on cryptography, neuroscience and longevity. 
 
-Link is an artist, scientist and architect. He is a self-taught programmer and has degrees in financial history, political philosophy and economics. As a researcher, he also studied cryptography, neuroscience and longevity. Link is an investor and builder of early stage tech startups.
+Link is a self-taught programmer and has degrees in financial history, political philosophy and economics. He is an investor and builder of early stage tech startups. Link Daniel is the founder and early-stage investor of Network and managing director at Numenor. Network creates neurotechnology for the frontier of the mind and tools for people to become free.
 
+<br>
 <br>
 
 <img src="/media/linkdaniel-square.jpg" width="300" height="300"  />
 
+<br>
 <br>
 
 <b>Highlights:</b>
