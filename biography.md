@@ -64,7 +64,7 @@ At Harvard Kennedy School, he co-founded a nonprofit focused on governance and t
 
 - Product Manager at Y Combinator startup in San Francisco.
 
-- Host of Pensive Podcast.
+- Host of Pensive podcast.
   
 - Founder of Junto networking platform with offline events.
 
