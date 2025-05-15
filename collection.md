@@ -4,7 +4,7 @@ title: Collection
 permalink: /collection/
 ---
 
-<a href="https://photos.app.goo.gl/Yk3KEZGj9Dd2FnDe9">Art Collection</a>
+<a href="">Art Collection</a> (Coming Soon)
 <br>
 Album of favorite paintings.
 
@@ -36,6 +36,6 @@ Album of favorite historical photos.
 <br>
 List of places visited on Earth.
 
-<a href="">Collection: Venus</a>(Coming Soon)
+<a href="">Collection: Venus</a> (Coming Soon)
 <br>
 Album of favorite muses.
