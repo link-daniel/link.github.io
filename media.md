@@ -4,7 +4,12 @@ title: Media
 permalink: /media/
 ---
 
-<a href="https://x.com/linkd">X @linkd</a>
+<a href="https://x.com/linkd">𝕏</a>
+
+<a href="https://medium.com/@link">Medium</a>
+
+<a href="https://t.me/link_daniel">Telegram Channel</a>
+
 
 **CV**
 <br>
