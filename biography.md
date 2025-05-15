@@ -66,7 +66,7 @@ At Harvard Kennedy School, he co-founded a nonprofit focused on governance and t
 
 - Host of Pensive podcast.
   
-- Founder of Junto networking platform with offline events.
+- Founder of Junto platform to foster new kinds of dialog.
 
 - Author of Rule Over Self.
 
