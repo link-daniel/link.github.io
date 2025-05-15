@@ -68,6 +68,8 @@ At Harvard Kennedy School, he co-founded a nonprofit focused on governance and t
   
 - Founder of Junto networking platform with offline events.
 
+- Author of Rule Over Self.
+
 - Researcher at String Labs, venture studio and incubator headquartered in Palo Alto.
 
 - Independent research on cryptography, neuroscience and longevity at Stanford.
