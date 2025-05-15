@@ -10,7 +10,7 @@ permalink: /media/
 
 <a href="https://medium.com/@link">Medium</a>
 
-<a href="https://link.substack.com">Blog</a>
+<a href="https://link.substack.com">Substack</a>
 
 <a href="https://about.me/linkdaniel">About.Me</a>
 
