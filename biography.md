@@ -20,7 +20,7 @@ At Harvard Kennedy School, he co-founded a nonprofit focused on governance and t
 
 <b>Highlights:</b>
 
-- Played Magic the Gathering tournaments, Warcraft 3 tournaments and created one of the first German guilds for World of Warcraft.
+- Played Magic the Gathering tournaments, Warcraft 3 tournaments and created one of the first guilds for World of Warcraft.
 
 - German Abitur.
 
