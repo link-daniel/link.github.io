@@ -28,5 +28,9 @@ Lists.
 <br/>
 Resources.
 
+[Wiki](https://wiki.linkdaniel.org)
+<br/>
+Entries.
+
 [𝕏](https://x.com/linkd)
 
