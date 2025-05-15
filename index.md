@@ -16,7 +16,7 @@ Context.
 <br/>
 Autobiography.
 
-[Blog](https://link.com.de)
+[Blog](https://link.substack.com)
 <br/>
 Updates.
 
