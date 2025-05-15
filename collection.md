@@ -16,10 +16,6 @@ List of books read and want to read.
 <br>
 List of academic papers and books read.
 
-<a href="https://search.worldcat.org/lists/fdbabad1-a2f1-487e-b94f-11e92f9ae5fe">Bookshelf: WorldCat</a>
-<br>
-List of academic papers and books want to read.
-
 <a href="https://www.imdb.com/list/ls567765043">Games Played: IMDB</a>
 <br>
 List of games played.
