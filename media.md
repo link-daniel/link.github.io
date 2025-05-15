@@ -14,9 +14,6 @@ permalink: /media/
 
 <a href="https://about.me/linkdaniel">About.Me</a>
 
-<br>
-
-
 **CV**
 <br>
 <a href="https://read.cv/linkdaniel">View</a>
