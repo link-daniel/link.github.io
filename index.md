@@ -28,6 +28,10 @@ Notebooks.
 <br/>
 Lists.
 
+[Media](/media)
+<br/>
+Channels.
+
 [Library](/library)
 <br/>
 Resources.
