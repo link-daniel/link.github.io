@@ -12,7 +12,7 @@ layout: home
 <br/>
 Context.
 
-[Creator](/creator)
+[Biography](/biography)
 <br/>
 Autobiography.
 
