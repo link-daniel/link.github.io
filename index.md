@@ -16,6 +16,10 @@ Context.
 <br/>
 Autobiography.
 
+[Blog](https://link.com.de)
+<br/>
+Updates.
+
 [Codex](/codex)
 <br/>
 Notebooks.
