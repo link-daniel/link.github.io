@@ -30,6 +30,8 @@ At Harvard Kennedy School, he co-founded a nonprofit focused on governance and t
 
 - Trader at equity firm on Wall Street.
 
+- Hosted models in New York at premier clubs.
+
 - Investor and self-taught programmer since high school.
 
 - Bachelor of Science in Government and History at London School of Economics.
@@ -62,13 +64,13 @@ At Harvard Kennedy School, he co-founded a nonprofit focused on governance and t
 
 - Product Manager at Y Combinator startup in San Francisco.
 
-- Researcher at String Labs, venture studio and incubator headquartered in Palo Alto.
-
+- Host of Pensive Podcast.
+  
 - Founder of Junto networking platform with offline events.
 
-- Creative Director of Pensive Podcast.
+- Researcher at String Labs, venture studio and incubator headquartered in Palo Alto.
 
-- Independent research on cryptography and neuroscience at Stanford.
+- Independent research on cryptography, neuroscience and longevity at Stanford.
 
 - Managing Director at Network Fund.
 
