@@ -42,7 +42,7 @@ Link is a self-taught programmer and has degrees in financial history, political
 
 - First analyst at macroeconomic and geopolitical advisory firm Greenmantle.
 
-- Young Scholar at the Institute for New Economic Thinking created by George Soros.
+- Young Scholar at the Institute for New Economic Thinking created.
 
 - Internship at United Nations Office for South-South Cooperation.
 
