@@ -4,6 +4,8 @@ title: Media
 permalink: /media/
 ---
 
+<a href="https://x.com/linkd>X @linkd</a>
+
 **CV**
 <br>
 <a href="https://read.cv/linkdaniel">View</a>
