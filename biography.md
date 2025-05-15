@@ -74,6 +74,10 @@ Link is an artist, scientist and architect. He is a self-taught programmer and h
 
 - Founder and Chief Architect of Network.
 
+<br>
+<br>
+<br>
+<br>
 
 **Headshots:**
 <br>
