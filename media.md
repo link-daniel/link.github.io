@@ -4,7 +4,7 @@ title: Media
 permalink: /media/
 ---
 
-<a href="https://x.com/linkd>X @linkd</a>
+<a href="https://x.com/linkd">X @linkd</a>
 
 **CV**
 <br>
