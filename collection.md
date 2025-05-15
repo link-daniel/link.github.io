@@ -8,15 +8,15 @@ permalink: /collection/
 <br>
 Album of favorite paintings and photos.
 
-<a href="https://www.goodreads.com/review/list/95737422?shelf=read&sort=date_added">Bookshelf: Goodreads - Read / Want to Read</a>
+<a href="https://www.goodreads.com/review/list/95737422?shelf=read&sort=date_added">Bookshelf: Goodreads</a>
 <br>
 List of books read and want to read.
 
-<a href="https://search.worldcat.org/lists/e5a60fd2-2a1c-4955-ad18-7e11acc51338">Bookshelf: WorldCat - Read</a>
+<a href="https://search.worldcat.org/lists/e5a60fd2-2a1c-4955-ad18-7e11acc51338">Bookshelf: WorldCat</a>
 <br>
 List of academic papers and books read.
 
-<a href="https://search.worldcat.org/lists/fdbabad1-a2f1-487e-b94f-11e92f9ae5fe">Bookshelf: WorldCat - Want to Read</a>
+<a href="https://search.worldcat.org/lists/fdbabad1-a2f1-487e-b94f-11e92f9ae5fe">Bookshelf: WorldCat</a>
 <br>
 List of academic papers and books want to read.
 
