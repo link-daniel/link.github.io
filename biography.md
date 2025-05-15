@@ -4,11 +4,11 @@ title: Biography
 permalink: /biography/
 ---
 
-Link Daniel is a German-American artist, scientist and architect. He is the founder and early-stage investor of Network. Link graduated from the London School of Economics and is an alumni of Harvard University. In New York and London, he advised some of the world’s leading funds and was named a Young Scholar at the Institute for New Economic Thinking. 
+Link Daniel is a German-American artist, scientist, and architect. He is the founder and early-stage investor of Network, a company developing neurotechnology to advance human cognition and freedom. He also serves as managing director at Numenor.
 
-At the Harvard Kennedy School, he co-founded a non-profit at the intersection of governance & technology and he also briefly worked at the United Nations. After graduate school, he joined the Thiel network and accelerated the growth of early-stage technology startups in California. At Stanford, he pursued independent research on cryptography, neuroscience and longevity. 
+Daniel holds degrees in financial history, political philosophy, and economics from the London School of Economics and is a Harvard University alumnus. A self-taught programmer, he has advised leading funds in New York and London and was named a Young Scholar at the Institute for New Economic Thinking.
 
-Link is a self-taught programmer and has degrees in financial history, political philosophy and economics. He is an investor and builder of early stage tech startups. Link Daniel is the founder and early-stage investor of Network and managing director at Numenor. Network creates neurotechnology for the frontier of the mind and tools for people to become free.
+At Harvard Kennedy School, he co-founded a nonprofit focused on governance and technology and briefly worked at the United Nations. After graduate school, he joined the Thiel network, accelerating early-stage technology startups in California. He later conducted independent research at Stanford in neuroscience and longevity. Daniel continues to build technologies that push the boundaries of human potential.
 
 <br>
 <br>
