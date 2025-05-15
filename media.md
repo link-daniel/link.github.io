@@ -8,7 +8,11 @@ permalink: /media/
 
 <a href="https://medium.com/@link">Medium</a>
 
-<a href="https://t.me/link_daniel">Telegram Channel</a>
+<a href="https://link.substack.com">Blog</a>
+
+<a href="https://about.me/linkdaniel">About.Me Page</a>
+
+<br>
 
 
 **CV**
