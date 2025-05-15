@@ -76,6 +76,8 @@ At Harvard Kennedy School, he co-founded a nonprofit focused on governance and t
 
 - Research Director at Neuro Capital in Los Angeles.
 
+- Executive Director of Network Foundation.
+
 - Principal Investor at Numenor.
 
 - Founder and Chief Architect of Network.
