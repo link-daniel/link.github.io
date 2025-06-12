@@ -14,7 +14,7 @@ List of books read and want to read.
 
 [Maps](/maps)
 <br>
-List of places visited on Earth.
+List of places been to.
 
 <a href="https://www.imdb.com/user/ur85826373/watchlist?sort=date_added%2Cdesc&view=detail">Movies</a>
 <br>
