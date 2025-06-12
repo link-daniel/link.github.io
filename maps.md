@@ -32,6 +32,9 @@ permalink: /maps/
 <a href="https://maps.app.goo.gl/rpbCdxqPyiw1w3L68">Ports</a>
 <br>
 <br>
+<a href="https://maps.app.goo.gl/oyWdvnUc5n51JU4B9">Town</a>
+<br>
+<br>
 
 
 
