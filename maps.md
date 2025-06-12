@@ -5,7 +5,7 @@ permalink: /maps/
 ---
 
 
-<a href="https://maps.app.goo.gl/RPy3fAE53ir1ujUp6">Cathedrals</a>
+<a href="https://maps.app.goo.gl/sMYpdZdpjpBv6ShPA">Cathedrals</a>
 <br>
 <br>
 <a href="https://maps.app.goo.gl/1SwPxi4Pft6vchkK7">Cities</a>
