@@ -7,7 +7,7 @@ permalink: /maps/
 <a href="https://maps.app.goo.gl/rpbCdxqPyiw1w3L68">Airports</a>
 <br>
 <br>
-<a href="<a href="https://maps.app.goo.gl/RPy3fAE53ir1ujUp6">Cathedrals</a>
+<a href="https://maps.app.goo.gl/RPy3fAE53ir1ujUp6">Cathedrals</a>
 <br>
 <br>
 <a href="https://maps.app.goo.gl/1SwPxi4Pft6vchkK7">Cities</a>
