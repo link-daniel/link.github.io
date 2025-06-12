@@ -13,6 +13,9 @@ permalink: /maps/
 <a href="https://maps.app.goo.gl/kcDg2dd7M5DYeXLh7">Country</a>
 <br>
 <br>
+<a href="https://maps.app.goo.gl/M3yGcdFD1kg2RmVG8">Culture</a>
+<br>
+<br>
 <a href="https://maps.app.goo.gl/YaWfD3ZCuHdiEUan7">Monastery</a> 
 <br>
 <br>
