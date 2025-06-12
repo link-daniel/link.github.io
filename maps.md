@@ -22,6 +22,9 @@ permalink: /maps/
 <a href="https://maps.app.goo.gl/rbGjEQiVigUQHNzb8">Nature</a> 
 <br>
 <br>
+<a href="https://maps.app.goo.gl/Hcx5LHLKJJgLiByi8">Landmark</a> 
+<br>
+<br>
 <a href="https://maps.app.goo.gl/nBwt1AjNw463UcGa7">Library</a> 
 <br>
 <br>
