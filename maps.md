@@ -31,6 +31,9 @@ permalink: /maps/
 <a href="https://maps.app.goo.gl/nBwt1AjNw463UcGa7">Library</a> 
 <br>
 <br>
+<a href="https://maps.app.goo.gl/mkwNbndFwUsTg8hU7">Life</a> 
+<br>
+<br>
 <a href="https://maps.app.goo.gl/vKPzQCR1pr2CagwS8">Palace</a> 
 <br>
 <br>
