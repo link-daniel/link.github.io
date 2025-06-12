@@ -14,6 +14,9 @@ permalink: /maps/
 <a href="https://maps.app.goo.gl/kcDg2dd7M5DYeXLh7">Country</a>
 <br>
 <br>
+<a href="https://maps.app.goo.gl/YaWfD3ZCuHdiEUan7">Monastery</a> 
+<br>
+<br>
 <a href="https://maps.app.goo.gl/MyE5TMgAhuESw2vb9">Museum</a> 
 <br>
 <br>
