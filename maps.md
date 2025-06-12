@@ -23,6 +23,9 @@ permalink: /maps/
 <a href="https://maps.app.goo.gl/Nz5iK2szp4b6W552A">Museum</a> 
 <br>
 <br>
+<a href="https://maps.app.goo.gl/rbGjEQiVigUQHNzb8">Nature</a> 
+<br>
+<br>
 <a href="https://maps.app.goo.gl/nBwt1AjNw463UcGa7">Libraries</a> 
 <br>
 <br>
