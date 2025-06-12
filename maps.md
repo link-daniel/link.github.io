@@ -4,9 +4,7 @@ title: Maps
 permalink: /maps/
 ---
 
-<a href="https://maps.app.goo.gl/rpbCdxqPyiw1w3L68">Airports</a>
-<br>
-<br>
+
 <a href="https://maps.app.goo.gl/RPy3fAE53ir1ujUp6">Cathedrals</a>
 <br>
 <br>
@@ -20,6 +18,10 @@ permalink: /maps/
 <br>
 <br>
 <a href="https://maps.app.goo.gl/RPy3fAE53ir1ujUp6">Parks</a> 
-
+<br>
+<br>
+<a href="https://maps.app.goo.gl/rpbCdxqPyiw1w3L68">Ports</a>
+<br>
+<br>
 
 
