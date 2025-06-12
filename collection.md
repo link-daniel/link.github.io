@@ -20,6 +20,10 @@ List of academic papers and books read.
 <br>
 List of games played.
 
+[Maps: Places on Earth Visited](/maps)
+<br>
+List of places visited on Earth.
+
 <a href="https://www.imdb.com/user/ur85826373/watchlist?sort=date_added%2Cdesc&view=detail">Movies Watchlist: IMDb</a>
 <br>
 List of movies watched.
@@ -27,10 +31,6 @@ List of movies watched.
 <a href="https://photos.app.goo.gl/Yk3KEZGj9Dd2FnDe9">Photo Collection</a>
 <br>
 Album of favorite historical photos.
-
-<a href="https://maps.app.goo.gl/vmtWzydsvTrD4k5t5">Places on Earth Visited</a>
-<br>
-List of places visited on Earth.
 
 <a href="">Collection: Venus</a> (Coming Soon)
 <br>
