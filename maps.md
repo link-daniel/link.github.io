@@ -4,10 +4,10 @@ title: Maps
 permalink: /maps/
 ---
 
-<a href="https://maps.app.goo.gl/sMYpdZdpjpBv6ShPA">Cathedrals</a>
+<a href="https://maps.app.goo.gl/sMYpdZdpjpBv6ShPA">Cathedral</a>
 <br>
 <br>
-<a href="https://maps.app.goo.gl/1SwPxi4Pft6vchkK7">Cities</a>
+<a href="https://maps.app.goo.gl/1SwPxi4Pft6vchkK7">City</a>
 <br>
 <br>
 <a href="https://maps.app.goo.gl/kcDg2dd7M5DYeXLh7">Country</a>
@@ -22,16 +22,16 @@ permalink: /maps/
 <a href="https://maps.app.goo.gl/rbGjEQiVigUQHNzb8">Nature</a> 
 <br>
 <br>
-<a href="https://maps.app.goo.gl/nBwt1AjNw463UcGa7">Libraries</a> 
+<a href="https://maps.app.goo.gl/nBwt1AjNw463UcGa7">Library</a> 
 <br>
 <br>
-<a href="https://maps.app.goo.gl/vKPzQCR1pr2CagwS8">Palaces</a> 
+<a href="https://maps.app.goo.gl/vKPzQCR1pr2CagwS8">Palace</a> 
 <br>
 <br>
-<a href="https://maps.app.goo.gl/RPy3fAE53ir1ujUp6">Parks</a> 
+<a href="https://maps.app.goo.gl/RPy3fAE53ir1ujUp6">Park</a> 
 <br>
 <br>
-<a href="https://maps.app.goo.gl/rpbCdxqPyiw1w3L68">Ports</a>
+<a href="https://maps.app.goo.gl/rpbCdxqPyiw1w3L68">Port</a>
 <br>
 <br>
 <a href="https://maps.app.goo.gl/oyWdvnUc5n51JU4B9">Town</a>
