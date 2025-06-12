@@ -4,7 +4,6 @@ title: Maps
 permalink: /maps/
 ---
 
-
 <a href="https://maps.app.goo.gl/sMYpdZdpjpBv6ShPA">Cathedrals</a>
 <br>
 <br>
@@ -18,9 +17,6 @@ permalink: /maps/
 <br>
 <br>
 <a href="https://maps.app.goo.gl/MyE5TMgAhuESw2vb9">Museum</a> 
-<br>
-<br>
-<a href="https://maps.app.goo.gl/Nz5iK2szp4b6W552A">Museum</a> 
 <br>
 <br>
 <a href="https://maps.app.goo.gl/rbGjEQiVigUQHNzb8">Nature</a> 
@@ -41,6 +37,7 @@ permalink: /maps/
 <a href="https://maps.app.goo.gl/oyWdvnUc5n51JU4B9">Town</a>
 <br>
 <br>
+
 
 
 
