@@ -4,11 +4,11 @@ title: Collection
 permalink: /collection/
 ---
 
-<a href="">Art Collection</a> (Coming Soon)
+<a href="">Arts</a> (Coming Soon)
 <br>
 Album of favorite paintings.
 
-<a href="https://www.goodreads.com/review/list/95737422?shelf=read&sort=date_added">Bookshelf</a>
+<a href="https://www.goodreads.com/review/list/95737422?shelf=read&sort=date_added">Books</a>
 <br>
 List of books read and want to read.
 
