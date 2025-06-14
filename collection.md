@@ -4,6 +4,10 @@ title: Collection
 permalink: /collection/
 ---
 
+<a href="https://www.wikiart.org/en/profile/621009b79e43633518f85ad8/albums/favourites">Arts</a>
+<br>
+Collection of paintings.
+
 <a href="https://www.goodreads.com/review/list/95737422?shelf=read&sort=date_added">Books</a>
 <br>
 List of books read and want to read.
@@ -12,7 +16,7 @@ List of books read and want to read.
 <br>
 List of places been to.
 
-<a href="https://www.wikiart.org/en/profile/621009b79e43633518f85ad8/albums/favourites">Gallery</a>
+<a href="https://artsandculture.google.com/favorite/group/DQLi1CtOtzUCLg">Gallery</a>
 <br>
 Private museum collection.
 
