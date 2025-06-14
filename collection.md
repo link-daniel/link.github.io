@@ -12,7 +12,7 @@ List of books read and want to read.
 <br>
 List of places been to.
 
-<a href="">Gallery</a>
+<a href="https://www.dropbox.com/scl/fo/vs5hvioijb9b0a8vpzl29/AMDj5fIOWEAS3yEND-jfC0s?rlkey=cqrwzw8abieb6bwnminife082&e=2&dl=0">Gallery</a>
 <br>
 Private museum collection.
 
