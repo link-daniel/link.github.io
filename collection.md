@@ -28,6 +28,10 @@ Playlist of favorite movie scenes.
 <br>
 List of movies watched.
 
+<a href="https://models.com/lists/yfn2ltx8ll/">Muses</a>
+<br>
+Album of favorite muses.
+
 <a href="https://www.youtube.com/playlist?list=PL3IOQtA2di8P_t579vfZJUjdLs8fgK0H8">Music</a>
 <br>
 Different kinds of playlists.
@@ -35,10 +39,6 @@ Different kinds of playlists.
 <a href="https://search.worldcat.org/lists/e5a60fd2-2a1c-4955-ad18-7e11acc51338">Scientific Papers</a>
 <br>
 List of scientific papers.
-
-<a href="https://www.dropbox.com/scl/fo/k5j5c4w2444zw3jn3uqv7/AAKWjJ1Ok2_IBqMOxuzqQG0?rlkey=9g2yd01v4t8ype9hppjuwbd9n&st=4he2bhqg&dl=0">Venus</a>
-<br>
-Album of favorite muses.
 
 <a href="https://www.imdb.com/list/ls567765043">Video Games</a>
 <br>
