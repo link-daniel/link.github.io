@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Muses  
-permalink: /Muses/
+permalink: /muses/
 ---
 
 
