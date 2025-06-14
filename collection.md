@@ -32,7 +32,7 @@ Different kinds of playlists.
 <br>
 List of scientific papers.
 
-<a href="">Venus</a> (Coming Soon)
+<a href="https://www.dropbox.com/scl/fo/k5j5c4w2444zw3jn3uqv7/AAKWjJ1Ok2_IBqMOxuzqQG0?rlkey=9g2yd01v4t8ype9hppjuwbd9n&st=4he2bhqg&dl=0">Venus</a>
 <br>
 Album of favorite muses.
 
