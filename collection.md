@@ -16,7 +16,6 @@ List of books read and want to read.
 <br>
 List of places been to.
 
-
 <a href="https://www.youtube.com/playlist?list=PL3IOQtA2di8P_t579vfZJUjdLs8fgK0H8">Hollywood</a>
 <br>
 Playlist of favorite movie scenes.
@@ -25,6 +24,10 @@ Playlist of favorite movie scenes.
 <a href="https://www.imdb.com/user/ur85826373/watchlist?sort=date_added%2Cdesc&view=detail">Movies</a>
 <br>
 List of movies watched.
+
+<a href="https://www.youtube.com/playlist?list=PL3IOQtA2di8P_t579vfZJUjdLs8fgK0H8">Music</a>
+<br>
+Different kinds of playlists.
 
 <a href="https://photos.app.goo.gl/Yk3KEZGj9Dd2FnDe9">Photos</a>
 <br>
