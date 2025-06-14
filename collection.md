@@ -30,7 +30,7 @@ List of movies watched.
 
 <a href="https://models.com/lists/yfn2ltx8ll/">Muses</a>
 <br>
-Album of favorite muses.
+Feed of favorite muses.
 
 <a href="https://www.youtube.com/playlist?list=PL3IOQtA2di8P_t579vfZJUjdLs8fgK0H8">Music</a>
 <br>
