@@ -11,6 +11,9 @@ permalink: /music/
 <br>
 
 <a href="https://open.spotify.com/playlist/0Q2errOTXqXGH9iyx1pwne?si=Tt75SO7sS6KDUm3L4XiHmw">Nature</a>
+<br>
+
+<a href="https://open.spotify.com/playlist/41gvLCoJZKn7aehgWd7W2K?si=kd7wRuJcQSS6aeb6crkejw">Reality</a>
 
 
 
