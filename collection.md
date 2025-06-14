@@ -28,10 +28,6 @@ List of movies watched.
 <br>
 Different kinds of playlists.
 
-<a href="https://photos.app.goo.gl/Yk3KEZGj9Dd2FnDe9">Photos</a>
-<br>
-Album of favorite historical photos.
-
 <a href="https://search.worldcat.org/lists/e5a60fd2-2a1c-4955-ad18-7e11acc51338">Scientific Papers</a>
 <br>
 List of scientific papers.
