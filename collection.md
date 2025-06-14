@@ -4,10 +4,6 @@ title: Collection
 permalink: /collection/
 ---
 
-<a href="">Arts</a> (Coming Soon)
-<br>
-Album of favorite paintings.
-
 <a href="https://www.goodreads.com/review/list/95737422?shelf=read&sort=date_added">Books</a>
 <br>
 List of books read and want to read.
@@ -16,10 +12,13 @@ List of books read and want to read.
 <br>
 List of places been to.
 
+<a href="">Gallery</a> (Coming Soon)
+<br>
+Private museum collection.
+
 <a href="https://www.youtube.com/playlist?list=PL3IOQtA2di8P_t579vfZJUjdLs8fgK0H8">Hollywood</a>
 <br>
 Playlist of favorite movie scenes.
-
 
 <a href="https://www.imdb.com/user/ur85826373/watchlist?sort=date_added%2Cdesc&view=detail">Movies</a>
 <br>
