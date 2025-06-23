@@ -20,7 +20,7 @@ List of places been to.
 <br>
 Private museum collection.
 
-<a href="https://www.youtube.com/playlist?list=PL3IOQtA2di8P_t579vfZJUjdLs8fgK0H8">Hollywood</a>
+<a href="https://www.youtube.com/playlist?list=PL3IOQtA2di8PGpOAp6xcoCYFhYT-zn2GV">Hollywood</a>
 <br>
 Playlist of favorite movie scenes.
 
