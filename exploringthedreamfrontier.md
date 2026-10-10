@@ -3,7 +3,7 @@ layout: post
 title:  "Exploring the Dream Frontier"
 categories: 
 tags: 
-permalink: /dreamfrontier
+permalink: /exploringthedreamfrontier
 ---
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">

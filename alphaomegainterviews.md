@@ -3,7 +3,7 @@ layout: post
 title:  "AlphaOmega Interview Series"
 categories: 
 tags: 
-permalink: /alphaomegaseries
+permalink: /alphaomegainterviews
 ---
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">

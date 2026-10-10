@@ -3,7 +3,7 @@ layout: post
 title:  "Interview by Nataliya from Decentralized Humanity"
 categories: 
 tags: 
-permalink: /nataliya
+permalink: /decentralizedhumanityinterview
 ---
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">

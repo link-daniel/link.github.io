@@ -3,7 +3,7 @@ layout: post
 title:  "Talk at Tribe Social Club, Lisbon"
 categories: 
 tags: 
-permalink: /tribelisbon
+permalink: /tribesocialclublisbon
 ---
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">

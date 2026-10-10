@@ -3,7 +3,7 @@ layout: post
 title:  "On Dream Exploration Technologies at the Silicon Valley Neurotech Forum"
 categories: 
 tags: 
-permalink: /svneuroforum
+permalink: /siliconvalleyneurotechforum
 ---
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">

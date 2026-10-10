@@ -3,7 +3,7 @@ layout: post
 title:  "On Network, Neuroscience and Web3"
 categories: 
 tags: 
-permalink: /networkneuroweb3
+permalink: /networkneuroscienceweb3
 ---
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
