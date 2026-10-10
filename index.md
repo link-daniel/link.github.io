@@ -8,6 +8,10 @@
 layout: home
 ---
 
+<small>December 2025</small><br>
+[Quick Pitch at the Brooklyn Navy Yard](/brooklynnavyyardpitch)
+<br>
+
 <small>June 2025</small><br>
 [Talk at Tribe Social Club, Lisbon](/tribesocialclub)
 <br>
