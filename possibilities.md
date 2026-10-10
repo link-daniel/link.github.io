@@ -6,6 +6,10 @@ tags:
 date: October 10 2015
 ---
 
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/860-uehlPgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 A friend of mine asked me to share the text that I wrote for my speech in the class, taught by Prof. Marshall Ganz, at the J.F.K. School of Government.
 
 What is the biggest catalyst for change? Possibilities. Once your mind sees possibilities, it can’t be stopped. Possibilities that feel real can change your life.
