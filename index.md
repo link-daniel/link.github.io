@@ -29,7 +29,7 @@ layout: home
 [Talk at Tribe Social Club, Lisbon](/tribesocialclub)
 <br>
 
-[AlphaOmega Interview Series](/alphaomegainterviews)
+[AlphaOmega Interview Series](/alphaomega)
 <br>
 
 [Talk at Cloudflare for Neurotechnology Square](/neurotechsquarecloudflare)
