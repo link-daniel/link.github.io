@@ -76,14 +76,6 @@ layout: home
 [Pensive Podcast Series](/pensive)
 <br>
 
-<small>April 2016</small><br>
-[A Brief Biography of Niccolo Machiavelli](/machiavellibio)
-<br>
-
-<small>January 2016</small><br>
-[John Locke's theory of natural rights](/locketheories)
-<br>
-
 <small>2016</small><br>
 [AlphaOmega Interview Series](/alphaomega)
 <br>
@@ -146,6 +138,14 @@ layout: home
 
 <small>January 2013</small><br>
 [Reflexivity in Financial Markets](/reflexivity)
+<br>
+
+<small>April 2011</small><br>
+[A Brief Biography of Niccolo Machiavelli](/machiavellibio)
+<br>
+
+<small>January 2011</small><br>
+[John Locke's theory of natural rights](/locketheories)
 <br>
 
 <small>December 2009</small><br>
