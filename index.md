@@ -8,10 +8,6 @@
 layout: home
 ---
 
-<small>March 2026</small><br>
-[Exploring the Dream Frontier](/dreamfrontier)
-<br>
-
 <small>June 2025</small><br>
 [Talk at Tribe Social Club, Lisbon](/tribesocialclub)
 <br>
@@ -66,6 +62,10 @@ layout: home
 
 <small>May 2021</small><br>
 [Principal, Andunor](/andunorprincipal)
+<br>
+
+<small>February 2021</small><br>
+[Exploring the Dream Frontier](/dreamfrontier)
 <br>
 
 <small>January 2021</small><br>
