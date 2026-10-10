@@ -8,116 +8,151 @@
 layout: home
 ---
 
-[On Network, Neuroscience and Web3](/networkneuroweb3)
-<br>
-
-[On Dream Exploration Technologies at the Silicon Valley Neurotech Forum](/neurotechforum)
-<br>
-
+<small>March 2026</small><br>
 [Exploring the Dream Frontier](/dreamfrontier)
 <br>
 
-[Interview by Nataliya from Decentralized Humanity](/decentralizedhumanity)
-<br>
-
-[Towards More Capital for the Dreamworld](/dreamworldcapital)
-<br>
-
-[Dream Yourself Awake: NY Tech Week Debrief](/dreamyourselfawake)
-<br>
-
+<small>June 2025</small><br>
 [Talk at Tribe Social Club, Lisbon](/tribesocialclub)
 <br>
 
-[AlphaOmega Interview Series](/alphaomega)
+<small>June 2025</small><br>
+[Dream Yourself Awake: NY Tech Week Debrief](/dreamyourselfawake)
 <br>
 
+<small>May 2025</small><br>
+[Towards More Capital for the Dreamworld](/dreamworldcapital)
+<br>
+
+<small>December 2024</small><br>
+[Decentralized Humanity Interview](/decentralizedhumanity)
+<br>
+
+<small>June 2024</small><br>
+[Silicon Valley Neurotech Forum Talk](/svneurotechforum)
+<br>
+
+<small>April 2024</small><br>
 [Talk at Cloudflare for Neurotechnology Square](/neurotechsquarecloudflare)
 <br>
 
+<small>June 2022</small><br>
+[On Network, Neuroscience and Web3](/networkneuroweb3)
+<br>
+
+<small>January 2021</small><br>
 [On Virtual Dreams](/virtualdreams)
 <br>
 
+<small>January 2021</small><br>
 [A Virtual Dream And Brain Computer Protocol](/networkwhitepaper)
 <br>
 
-[Rule Over Self Book](/ruleoverself)
-<br>
-
-[The Future is Decentralized Speech](/stanfordshapers) 
-<br>
-
+<small>April 2018</small><br>
 [The Future is Networked](/futurenetworked)
 <br>
 
-[The Rise of Networks](/riseofnetworks)
+<small>December 2017</small><br>
+[Rule Over Self Book](/ruleoverself)
 <br>
 
-[Conversations Series](/conversations)
+<small>Early 2017</small><br>
+[The Future is Decentralized Speech](/stanfordshapers)
 <br>
 
-[Pensive Podcast Series](/pensive)
-<br>
-
+<small>September 2016</small><br>
 [How I Escaped My Prison](/thinkerprison)
 <br>
 
+<small>April 2016</small><br>
+[The Rise of Networks](/riseofnetworks)
+<br>
+
+<small>April 2016</small><br>
 [The Definite Optimist](/definiteoptimist)
 <br>
 
-[Possibilities Speech](/possibilities)
+<small>April 2016</small><br>
+[Pensive Podcast Series](/pensive)
 <br>
 
-[When Government Meets Technology](/futuresociety)
-<br>
-
-[On The Edge Of A New Frontier](/edgenewfrontier)
-<br>
-
-[Artificial Inquisition](/artificialinquisition)
-<br>
-
-[Presence Short Films](/presence)
-<br>
-
-[A Nation of Immigrants](/nationimmigrants)
-<br>
-
-[Give Me Your Dreamers That Are Searching For Purpose](/givemeyourdreamers)
-<br>
-
-[Lincoln's Legacy](/lincoln)
-<br>
-
-[John Locke's theory of natural rights](/locketheories)
-<br>
-
-[Rebel With A Cause - An Introduction to Voltaire](/voltaire)
-<br>
-
+<small>April 2016</small><br>
 [A Brief Biography of Niccolo Machiavelli](/machiavellibio)
 <br>
 
+<small>January 2016</small><br>
+[John Locke's theory of natural rights](/locketheories)
+<br>
+
+<small>2016</small><br>
+[AlphaOmega Interview Series](/alphaomega)
+<br>
+
+<small>October 2015</small><br>
+[Possibilities Speech](/possibilities)
+<br>
+
+<small>October 2015</small><br>
+[When Government Meets Technology](/futuresociety)
+<br>
+
+<small>June 2015</small><br>
+[Artificial Inquisition](/artificialinquisition)
+<br>
+
+<small>June 2015</small><br>
+[On The Edge Of A New Frontier](/edgenewfrontier)
+<br>
+
+<small>November 2014</small><br>
+[Give Me Your Dreamers That Are Searching For Purpose](/givemeyourdreamers)
+<br>
+
+<small>May 2014</small><br>
+[A Nation of Immigrants](/nationimmigrants)
+<br>
+
+<small>April 2014</small><br>
 [The Prince: An Introduction to Niccolo Machiavelli](/machiavelli)
 <br>
 
-[Innovation Globalized](/innovationglobalized)
-<br>
-
-[Reflexivity in Financial Markets](/reflexivity)
-<br>
-
-[The Art of the Unsent Email](/unsentemail)
-<br>
-
-[Lost in Translation](/lostintranslation)
-<br>
-
-[Ascent Guild Raid Videos](/ascentguild)
-<br>
-
+<small>April 2014</small><br>
 [The Wealth of Nations: An Introduction to Adam Smith](/adamsmith)
 <br>
 
+<small>March 2014</small><br>
+[Conversations Series](/conversations)
+<br>
 
+<small>November 2013</small><br>
+[Presence Short Films](/presence)
+<br>
+
+<small>October 2013</small><br>
+[The Art of the Unsent Email](/unsentemail)
+<br>
+
+<small>October 2013</small><br>
+[Lincoln's Legacy](/lincoln)
+<br>
+
+<small>October 2013</small><br>
+[Rebel With A Cause - An Introduction to Voltaire](/voltaire)
+<br>
+
+<small>February 2013</small><br>
+[Innovation Globalized](/innovationglobalized)
+<br>
+
+<small>January 2013</small><br>
+[Reflexivity in Financial Markets](/reflexivity)
+<br>
+
+<small>December 2009</small><br>
+[Lost in Translation](/lostintranslation)
+<br>
+
+<small>October 2006</small><br>
+[Ascent Guild Raid Videos](/ascentguild)
+<br>
 
