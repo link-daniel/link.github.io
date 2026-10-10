@@ -8,25 +8,25 @@
 layout: home
 ---
 
-[On Network, Neuroscience and Web3](/networkneuroscienceweb3)
+[On Network, Neuroscience and Web3](/networkneuroweb3)
 <br>
 
-[On Dream Exploration Technologies at the Silicon Valley Neurotech Forum](/siliconvalleyneurotechforum)
+[On Dream Exploration Technologies at the Silicon Valley Neurotech Forum](/neurotechforum)
 <br>
 
-[Exploring the Dream Frontier](/exploringthedreamfrontier)
+[Exploring the Dream Frontier](/dreamfrontier)
 <br>
 
-[Interview by Nataliya from Decentralized Humanity](/decentralizedhumanityinterview)
+[Interview by Nataliya from Decentralized Humanity](/decentralizedhumanity)
 <br>
 
-[Towards More Capital for the Dreamworld](/capitalforthedreamworld)
+[Towards More Capital for the Dreamworld](/dreamworldcapital)
 <br>
 
-[Dream Yourself Awake: NY Tech Week Debrief](/nytechweekdreamyourselfawake)
+[Dream Yourself Awake: NY Tech Week Debrief](/dreamyourselfawake)
 <br>
 
-[Talk at Tribe Social Club, Lisbon](/tribesocialclublisbon)
+[Talk at Tribe Social Club, Lisbon](/tribesocialclub)
 <br>
 
 [AlphaOmega Interview Series](/alphaomegainterviews)

@@ -3,7 +3,7 @@ layout: post
 title:  "Towards More Capital for the Dreamworld"
 categories: 
 tags: 
-permalink: /capitalforthedreamworld
+permalink: /dreamworldcapital
 ---
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">

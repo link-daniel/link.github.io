@@ -3,7 +3,7 @@ layout: post
 title:  "Dream Yourself Awake: NY Tech Week Debrief"
 categories: 
 tags: 
-permalink: /nytechweekdreamyourselfawake
+permalink: /dreamyourselfawake
 ---
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
