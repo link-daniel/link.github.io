@@ -1,44 +1,93 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
+layout: page
+title: Codex
+permalink: /codex/
 ---
 
-[About](/about)
-<br/>
-Context.
 
-[Biography](/biography)
-<br/>
-Autobiography.
+[On Virtual Dreams](/virtualdreams)
+<br>
 
-[Blog](https://link.substack.com)
-<br/>
-Updates.
+[A Virtual Dream And Brain Computer Protocol](/networkwhitepaper)
+<br>
 
-[Codex](/codex)
-<br/>
-Notebooks.
+[Rule Over Self Book](/ruleoverself)
+<br>
 
-[Collection](/collection)
-<br/>
-Lists.
+[The Future is Decentralized Speech](/stanfordshapers) 
+<br>
 
-[Media](/media)
-<br/>
-Channels.
+[The Future is Networked](/futurenetworked)
+<br>
 
-[Library](/library)
-<br/>
-Resources.
+[The Rise of Networks](/riseofnetworks)
+<br>
 
-[Wiki](https://wiki.linkdaniel.org)
-<br/>
-Entries.
+[Conversations Series](/conversations)
+<br>
 
-[𝕏](https://x.com/linkd)
+[Pensive Podcast Series](/pensive)
+<br>
+
+[How I Escaped My Prison](/thinkerprison)
+<br>
+
+[The Definite Optimist](/definiteoptimist)
+<br>
+
+[Possibilities Speech](/possibilities)
+<br>
+
+[When Government Meets Technology](/futuresociety)
+<br>
+
+[On The Edge Of A New Frontier](/edgenewfrontier)
+<br>
+
+[Artificial Inquisition](/artificialinquisition)
+<br>
+
+[Presence Short Films](/presence)
+<br>
+
+[A Nation of Immigrants](/nationimmigrants)
+<br>
+
+[Give Me Your Dreamers That Are Searching For Purpose](/givemeyourdreamers)
+<br>
+
+[Lincoln's Legacy](/lincoln)
+<br>
+
+[John Locke's theory of natural rights](/locketheories)
+<br>
+
+[Rebel With A Cause - An Introduction to Voltaire](/voltaire)
+<br>
+
+[A Brief Biography of Niccolo Machiavelli](/machiavellibio)
+<br>
+
+[The Prince: An Introduction to Niccolo Machiavelli](/machiavelli)
+<br>
+
+[Innovation Globalized](/innovationglobalized)
+<br>
+
+[Reflexivity in Financial Markets](/reflexivity)
+<br>
+
+[The Art of the Unsent Email](/unsentemail)
+<br>
+
+[Lost in Translation](/lostintranslation)
+<br>
+
+[Ascent Guild Raid Videos](/ascentguild)
+<br>
+
+[The Wealth of Nations: An Introduction to Adam Smith](/adamsmith)
+<br>
+
+
 
