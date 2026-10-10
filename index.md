@@ -52,6 +52,10 @@ layout: home
 [Rule Over Self Animated Series: Thinking](/ruleoverselfthinking)
 <br>
 
+<small>October 2023</small><br>
+[Rinpoche Dream Conversations](/rinpochedreams)
+<br>
+
 <small>June 2022</small><br>
 [On Network, Neuroscience and Web3](/networkneuroweb3)
 <br>
