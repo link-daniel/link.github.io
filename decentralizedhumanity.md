@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interview by Nataliya from Decentralized Humanity"
+title:  "Decentralized Humanity Interview"
 categories: 
 tags: 
 permalink: /decentralizedhumanity
