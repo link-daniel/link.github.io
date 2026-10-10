@@ -8,6 +8,8 @@
 layout: home
 ---
 
+[Talk at Cloudflare for Neurotechnology Square](/neurotechsquarecloudflare)
+<br>
 
 [On Virtual Dreams](/virtualdreams)
 <br>
