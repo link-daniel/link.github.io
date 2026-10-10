@@ -48,6 +48,10 @@ layout: home
 [Network at 1517 Flux](/network1517flux)
 <br>
 
+<small>November 2023</small><br>
+[Heir, Numenor](/numenorheir)
+<br>
+
 <small>October 2023</small><br>
 [Rule Over Self Animated Series: Thinking](/ruleoverselfthinking)
 <br>
@@ -60,12 +64,20 @@ layout: home
 [Network Pitch with Chainlink](/networkchainlink)
 <br>
 
+<small>May 2021</small><br>
+[Principal, Andunor](/andunorprincipal)
+<br>
+
 <small>January 2021</small><br>
 [On Virtual Dreams](/virtualdreams)
 <br>
 
 <small>January 2021</small><br>
 [A Virtual Dream And Brain Computer Protocol](/networkwhitepaper)
+<br>
+
+<small>July 2020</small><br>
+[Founder, Network](/networkfounder)
 <br>
 
 <small>2019</small><br>
@@ -78,6 +90,10 @@ layout: home
 
 <small>2018</small><br>
 [YC Research Proposal](/ycresearch)
+<br>
+
+<small>2018</small><br>
+[Media Director, Neuro Capital](/neurocapital)
 <br>
 
 <small>December 2017</small><br>
@@ -116,6 +132,14 @@ layout: home
 [AlphaOmega Interview Series](/alphaomega)
 <br>
 
+<small>2016</small><br>
+[Managing Director, Network Fund](/networkfund)
+<br>
+
+<small>2016</small><br>
+[Protocol Researcher, String Labs](/stringlabs)
+<br>
+
 <small>October 2015</small><br>
 [Possibilities Speech](/possibilities)
 <br>
@@ -134,6 +158,14 @@ layout: home
 
 <small>May 2015</small><br>
 [The Power of Small](/powerofsmall)
+<br>
+
+<small>2015</small><br>
+[Co-Founder, The Future Society](/futuresocietycofounder)
+<br>
+
+<small>2015</small><br>
+[Governance Researcher, Proton](/protonresearch)
 <br>
 
 <small>November 2014</small><br>
@@ -186,6 +218,10 @@ layout: home
 
 <small>January 2013</small><br>
 [Reflexivity in Financial Markets](/reflexivity)
+<br>
+
+<small>2013</small><br>
+[Analyst, Greenmantle](/greenmantle)
 <br>
 
 <small>May 2012</small><br>
