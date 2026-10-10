@@ -24,6 +24,10 @@ layout: home
 [Towards More Capital for the Dreamworld](/dreamworldcapital)
 <br>
 
+<small>2025</small><br>
+[Network Square Garden, New York](/networksquaregarden)
+<br>
+
 <small>December 2024</small><br>
 [Decentralized Humanity Interview](/decentralizedhumanity)
 <br>
@@ -32,12 +36,28 @@ layout: home
 [Silicon Valley Neurotech Forum Talk](/svneurotechforum)
 <br>
 
+<small>June 2024</small><br>
+[Dream Exploration Technologies in Amsterdam](/dreamamsterdam)
+<br>
+
 <small>April 2024</small><br>
 [Talk at Cloudflare for Neurotechnology Square](/neurotechsquarecloudflare)
 <br>
 
+<small>April 2024</small><br>
+[Network at 1517 Flux](/network1517flux)
+<br>
+
+<small>October 2023</small><br>
+[Rule Over Self Animated Series: Thinking](/ruleoverselfthinking)
+<br>
+
 <small>June 2022</small><br>
 [On Network, Neuroscience and Web3](/networkneuroweb3)
+<br>
+
+<small>April 2022</small><br>
+[Network Pitch with Chainlink](/networkchainlink)
 <br>
 
 <small>January 2021</small><br>
@@ -48,8 +68,16 @@ layout: home
 [A Virtual Dream And Brain Computer Protocol](/networkwhitepaper)
 <br>
 
+<small>2019</small><br>
+[YC Neuro Project](/ycneuro)
+<br>
+
 <small>April 2018</small><br>
 [The Future is Networked](/futurenetworked)
+<br>
+
+<small>2018</small><br>
+[YC Research Proposal](/ycresearch)
 <br>
 
 <small>December 2017</small><br>
@@ -64,6 +92,10 @@ layout: home
 [How I Escaped My Prison](/thinkerprison)
 <br>
 
+<small>August 2016</small><br>
+[ParlayMe Interview at NextGen Summit](/parlaymenextgen)
+<br>
+
 <small>April 2016</small><br>
 [The Rise of Networks](/riseofnetworks)
 <br>
@@ -74,6 +106,10 @@ layout: home
 
 <small>April 2016</small><br>
 [Pensive Podcast Series](/pensive)
+<br>
+
+<small>April 2016</small><br>
+[Outsite Speech](/outsitespeech)
 <br>
 
 <small>2016</small><br>
@@ -96,8 +132,16 @@ layout: home
 [On The Edge Of A New Frontier](/edgenewfrontier)
 <br>
 
+<small>May 2015</small><br>
+[The Power of Small](/powerofsmall)
+<br>
+
 <small>November 2014</small><br>
 [Give Me Your Dreamers That Are Searching For Purpose](/givemeyourdreamers)
+<br>
+
+<small>September 2014</small><br>
+[Political Liberty vs Negative Liberty](/politicallibertydebate)
 <br>
 
 <small>May 2014</small><br>
@@ -114,6 +158,10 @@ layout: home
 
 <small>March 2014</small><br>
 [Conversations Series](/conversations)
+<br>
+
+<small>January 2014</small><br>
+[The Entrepreneurial Advantage](/entrepreneurialadvantage)
 <br>
 
 <small>November 2013</small><br>
@@ -138,6 +186,10 @@ layout: home
 
 <small>January 2013</small><br>
 [Reflexivity in Financial Markets](/reflexivity)
+<br>
+
+<small>May 2012</small><br>
+[Self-Reliance: An Introduction to Ralph Waldo Emerson](/selfreliance)
 <br>
 
 <small>April 2011</small><br>
