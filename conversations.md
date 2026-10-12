@@ -18,16 +18,13 @@ Below is a list of conversations I've had with founders and thinkers either dire
 [A Conversation With Sebastian Thrun](/sebastianthrun)
 <br>
 
+[A Conversation With Peter Thiel](/lincolnthiel)
+<br>
+
 [A Conversation With Drew Houston](/drewhouston)
 <br>
 
 [A Conversation with Max Levchin](/maxlevchin)
-<br>
-
-[A Conversation With Bryan Johnson](/bryanjohnson)
-<br>
-
-[A Conversation With Peter Thiel](/lincolnthiel)
 <br>
 
 [An Afternoon With Peter Thiel](/peterthiel)
