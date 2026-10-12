@@ -5,6 +5,9 @@ permalink: /codex/
 ---
 
 
+[Don’t cut a rut in the road](/rut)
+<br>
+
 [On Virtual Dreams](/virtualdreams)
 <br>
 

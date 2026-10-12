@@ -4,6 +4,10 @@ title: Essays
 permalink: /essays/
 ---
 
+[Don’t cut a rut in the road](/rut)
+<br>
+On Introspection, Neural Pathways, and the Architecture of Misery
+
 [On virtual dreams](/virtualdreams)
 <br>
 Essay on virtual dreams
