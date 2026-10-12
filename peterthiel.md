@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Afternoon and Evening With Peter Thiel"
+title:  "An Afternoon With Peter Thiel"
 categories: 
 tags: 
 date: September 29 2014
