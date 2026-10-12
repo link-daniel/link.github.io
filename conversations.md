@@ -21,6 +21,18 @@ Below is a list of conversations I've had with founders and thinkers either dire
 [A Conversation With Drew Houston](/drewhouston)
 <br>
 
+[A Conversation with Max Levchin](/maxlevchin)
+<br>
+
+[A Conversation With Bryan Johnson](/bryanjohnson)
+<br>
+
+[A Conversation With Peter Thiel](/lincolnthiel)
+<br>
+
+[An Afternoon With Peter Thiel](/peterthiel)
+<br>
+
 [An Afternoon With Jack Dorsey](/jackdorsey)
 <br>
 
@@ -46,9 +58,6 @@ Below is a list of conversations I've had with founders and thinkers either dire
 <br>
 
 [An Afternoon with Larry Summers](/larrysummers)
-<br>
-
-[A Conversation with Max Levchin](/maxlevchin)
 <br>
 
 [An Afternoon with Arianna Huffington](/ariannahuffington)
