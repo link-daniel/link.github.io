@@ -8,6 +8,10 @@
 layout: home
 ---
 
+<small>October 2026</small><br>
+[Don’t cut a rut in the road](/rut)
+<br>
+
 <small>December 2025</small><br>
 [Quick Pitch at the Brooklyn Navy Yard](/brooklynnavyyardpitch)
 <br>
