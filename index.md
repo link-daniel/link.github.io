@@ -9,6 +9,10 @@ layout: home
 ---
 
 <small>October 2026</small><br>
+[Test](/test)
+<br>
+
+<small>October 2026</small><br>
 [Don’t cut a rut in the road](/rut)
 <br>
 
@@ -271,4 +275,3 @@ layout: home
 <small>October 2006</small><br>
 [Ascent Guild Raid Videos](/ascentguild)
 <br>
-
