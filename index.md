@@ -12,6 +12,10 @@ layout: home
 [Don’t cut a rut in the road](/rut)
 <br>
 
+<small>June 2026</small><br>
+[How a Noble Virtue Becomes a Civilizational Threat](/noble-virtue)
+<br>
+
 <small>December 2025</small><br>
 [Quick Pitch at the Brooklyn Navy Yard](/brooklynnavyyardpitch)
 <br>
@@ -34,6 +38,18 @@ layout: home
 
 <small>December 2024</small><br>
 [Decentralized Humanity Interview](/decentralizedhumanity)
+<br>
+
+<small>September 2024</small><br>
+[The Inner Sky](/inner-sky)
+<br>
+
+<small>September 2024</small><br>
+[The Inner Compass](/inner-compass)
+<br>
+
+<small>September 2024</small><br>
+[Masterplan for Virtual Dreams Development (January 2021)](/virtual-dreams)
 <br>
 
 <small>June 2024</small><br>
