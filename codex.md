@@ -8,6 +8,18 @@ permalink: /codex/
 [Don’t cut a rut in the road](/rut)
 <br>
 
+[How a Noble Virtue Becomes a Civilizational Threat](/noble-virtue)
+<br>
+
+[The Inner Sky](/inner-sky)
+<br>
+
+[The Inner Compass](/inner-compass)
+<br>
+
+[Masterplan for Virtual Dreams Development (January 2021)](/virtual-dreams)
+<br>
+
 [On Virtual Dreams](/virtualdreams)
 <br>
 

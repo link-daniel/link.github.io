@@ -8,6 +8,18 @@ permalink: /essays/
 <br>
 On Introspection, Neural Pathways, and the Architecture of Misery
 
+[How a Noble Virtue Becomes a Civilizational Threat](/noble-virtue)
+<br>
+On empathy, idiot compassion, and suicidal empathy
+
+[The Inner Compass](/inner-compass)
+<br>
+A story of the maps of the mind
+
+[Masterplan for Virtual Dreams Development (January 2021)](/virtual-dreams)
+<br>
+Plan for virtual dreams on an open brain computer network
+
 [On virtual dreams](/virtualdreams)
 <br>
 Essay on virtual dreams
