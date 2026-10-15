@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Masterplan for Virtual Dreams Development (January 2021)"
+title:  "Masterplan for Virtual Dreams Development"
 categories: 
 tags: 
 date: September 5 2024
