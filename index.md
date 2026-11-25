@@ -8,6 +8,14 @@
 layout: home
 ---
 
+<small>November 2026</small><br>
+[The Great Work](/the-great-work)
+<br>
+
+<small>November 2026</small><br>
+[Lass los](/lass-los)
+<br>
+
 <small>October 2026</small><br>
 [Don’t cut a rut in the road](/rut)
 <br>
