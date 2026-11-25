@@ -9,7 +9,7 @@ layout: home
 ---
 
 <small>November 2026</small><br>
-[The Great Work](/the-great-work)
+[Beyond the Veil](/the-great-work)
 <br>
 
 <small>November 2026</small><br>
