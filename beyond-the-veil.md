@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Great Work"
+title:  "Beyond the Veil"
 categories: 
 tags: 
 date: November 25 2026
-permalink: /the-great-work
+permalink: /beyond-the-veil
 ---
 
 In shadowed groves where veils once thinned, ten thousand lights have danced within.<br>
